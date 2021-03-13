@@ -569,3 +569,5 @@ Game (Steam) - X-Blades
 Game (Steam) - Yu-Gi-Oh! Duel Links
 Game (Steam) - Yu-Gi-Oh! Legacy of the Duelist
 Game (PC) - Minecraft
+Game (PC) - RuneScape
+Game (PC) - Diablo III
