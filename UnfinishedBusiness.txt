@@ -568,3 +568,4 @@ Game (Steam) - The Wolf Among Us
 Game (Steam) - X-Blades
 Game (Steam) - Yu-Gi-Oh! Duel Links
 Game (Steam) - Yu-Gi-Oh! Legacy of the Duelist
+Game (PC) - Minecraft
