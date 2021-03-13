@@ -1,0 +1,456 @@
+Book - The Recording Studio
+Game (PC) - Dance eJay + space sounds
+Game (PC) - Diablo
+Game (PC) - Enter the Matrix
+Game (PC) - GTA: Vice City
+Game (PC) - Heroes of Might & Magic III
+Game (PC) - Heroes of Might & Magic V
+Game (PC) - Kohan: Immortal Sovereigns
+Game (PC) - Mall Tycoon
+Game (PC) - Might & Magic: Clash of Heroes
+Game (PC) - Need for Speed: Hot Pursuit 2
+Game (PC) - Painkiller
+Game (PC) - Lord of the Rings: Battle for Middle-Earth II
+Game (PC) - Roller Coaster Tycoon 2 + Time Twister + Wacky Worlds
+Game (PC) - Theme Park World
+Game (PC) - Trackmania Sunrise
+Game (PC) - Worms World Party
+Game (PC) - XIII
+Game (PC) - World of Warcraft
+Game (PC) - World of Warcraft Classic
+TV series (DVD) - LOST season 1-4
+TV series (DVD) - TAKEN season 1
+TV series (DVD) - 24 (The complete series including Live Another Day)
+Movie (DVD) - 24: Redemption
+Game (PC) - Hunting Unlimited 4
+Game (Xbox 360) - Assassin's Creed III
+TV series (DVD) - Friends season 1-10
+Game (PC) - Team Fortress 2
+Game (PC) - Portal
+Game (PC) - Half-Life 2: Episode Two
+Game (PC) - Counter-Strike Source
+Game (Xbox 360) - Guitar Hero - Warriors of Rock
+Game (Xbox 360) - Guitar Hero Live
+TV series (DVD) - Hannibal season 1-2
+Movie (DVD) - Goldeneye
+Movie (DVD) - Transformers
+Movie (DVD) - The Rock
+Movie (DVD) - Die Another Day
+Movie (DVD) - Sniper
+Movie (DVD) - And Now for Something Completely Different
+Movie (DVD) - Monty Python and the Holy Grail
+Movie (DVD) - Life of Brian
+Movie (DVD) - The Meaning of Life
+Movie (DVD) - Octopussy
+Movie (DVD) - Thunderball
+Movie (DVD) - License to Kill
+Movie (DVD) - Tomorrow Never Dies
+Movie (DVD) - The Living Daylights
+Movie (DVD) - National Treasure 1-2
+Movie (DVD) - Pirates of the Caribbean 1-4
+Movie (DVD) - Street Kings
+Movie (DVD) - Jumper
+Movie (DVD) - The Day the Earth stood still
+Movie (DVD) - The Happening
+Movie (DVD) - Millenium (Stieg Larsson) 1-3
+Movie (DVD) - Angels & Demons
+Movie (DVD) - Bad Boys
+Movie (DVD) - Sahara
+Movie (DVD) - Doom
+Movie (DVD) - Godzilla (1998)
+Movie (DVD) - Jarhead
+Movie (DVD) - Terminator 2: Judgment Day
+Movie (DVD) - Saving Private Ryan
+Movie (DVD) - The Hangover Part II
+Movie (DVD) - King Arthur: Director's Cut
+Movie (DVD) - Serenity
+Movie (DVD) - 21
+Movie (DVD) - The Guardian
+Movie (DVD) - The Liverpool Goalie
+Movie (DVD) - Black Hawk Down
+Movie (DVD) - Silent Scream
+Movie (DVD) - The Road
+Movie (DVD) - War of the Worlds
+Movie (DVD) - Shootfighter
+Movie (DVD) - Hostage
+Movie (DVD) - The Expendables
+Movie (DVD) - Taxi
+Movie (DVD) - Wedding Crashers
+Movie (DVD) - Chaos
+Movie (DVD) - Inception
+Movie (DVD) - Børnehjemmet
+Movie (DVD) - Apocalypto
+Movie (DVD) - Van the Man
+Movie (DVD) - The Bourne Supremacy
+Movie (DVD) - Where the Fuck is Herning? (Hvor fanden er Herning?)
+Movie (DVD) - Garfield the Movie
+Movie (DVD) - DAMP (Simon Talbot)
+Movie (DVD) - CLICK
+Movie (DVD) - Keeping Mum
+Movie (DVD) - The Last Exorcism
+Movie (DVD) - The Constant Gardener
+Movie (DVD) - Inspector Morse: The Dead of Jericho
+Movie (DVD) - Midsomer Murders: The Sword of Guillaume
+Movie (DVD) - Beverly Hills Cop
+Movie (DVD) - 50 First Dates
+Movie (DVD) - Running Scared
+Movie (DVD) - Hancock
+Movie (DVD) - Live 09 Frank Hvam
+Movie (DVD) - Pan's Labyrinth
+Movie (DVD) - Die Hard 4.0
+Folder - Hameg HM8122
+Folder - Sailor RT2048
+Folder - HG1E (from a school)
+Folder - Black, anonymous folder
+Folder - Basic EMC I
+Folder - EUC Syd Praktikcenter (place for interns-to-be)
+Folder - Switch Mode Power Supply course
+Folder - Introduction to LabVIEW and Computer-Based Measurements
+Folder - Blue, Math B
+Folder - Drawing folder
+Magazines - Illustrated Science
+Book - Memories and messages from my boarding school
+Book - PS3 Wonderbook
+Book - Guinness World Records 2006
+Book - Guinness World Records 2007
+Book - Analog technology
+Book - Digital technology
+Book - A Promised Land
+Book - Arthur's Fall
+Pile of paper - Notes, paper, assignments, anything
+Book - Fairy tales by H.C. Andersen
+Book - My best 365 bedtime stories
+Book - Fantastic Beasts and where to find them
+Book - Matema10k (math book)
+Book - Elektronik Ståbi
+Book - Analog electronics theory
+Book - Dragons of Autumn Twilight + of Winter Night + of Spring Dawning
+Book - The Technician
+Book - The Green Mile
+Book - Dreamcatcher
+Book - Disney's X-mas Classics 11
+Book - Disney's X-mas Classics 12
+Book - Disney's X-mas Classics 13
+Book - Donald Duck's X-mas Stories 1997
+Book - Donald Duck's X-mas Stories 2003
+Book - Barnas Beste - Gapatrosten
+Book - Harry Potter 1-7 + the Cursed Child
+Book - Elementary Linear Algebra
+Book - Before you died
+Book - Criminal
+Book - The Last Good Man
+Book - The Boy Who Stopped Crying
+Book - The Amulet of Samarkand
+Book - The Hypnotist
+Book - The Shamer's Daughter
+Book - Endgame
+Book - Angels and Demons
+Book - The Da Vinci Code
+Book - The Lost Symbol
+Book - Physics and Chemistry Lexicon
+Book - Barnas store Vitsebok
+Book - Vitsegiganten
+Book - Danish-English Gyldendahl
+Book - English-Danish Gyldendahl
+Book - Spanish-Danish Gyldendahl
+Book - Nutella
+Book - Pizza and Pasta
+Book - Digital Fortress
+Book - Deception Point
+Book - Spanish-Danish - Danish-Spanish Gyldendahl
+Booklet - Sudoku (pocket)
+Booklet - Logic Problems
+Booklet - Quiz-cross magazine
+Learn Japanese
+Python learning
+Piano learning
+Booklet - Für Elise
+Booklet - Sudoku calendar
+Booklet - 750 questions and answers
+Booklet - Pocket scout
+Booklet - Workplace for scouts
+Booklet - Workplaces for wolves
+Laptop - #1 Go through rest on C, format and install W10 over W7
+Laptop - #2 Fix harddrive issues
+Laptop - #3 Save anything interesting, then format and install W10 over linux, maybe, maybe not
+Board game - Plön spiel (german monopoly, based on a town)
+Board game - Puzzle (500)
+Board game - Puzzle (1000)
+Folder - Black folder for holding documents, opens differently than others
+Folders and such - Various grades from various schools
+Booklet - Insights profile
+Folder - Hyundai Finance
+Tiny book - About men
+Writing booklets - Notes taken etc.
+Box - Memories, pictures, letters etc.
+Box - Pokémon cards (fuck yeah)
+Box - Yu-Gi-Oh! cards (hell yeah)
+Audio (CD) - Absolute Hits 2012
+Audio (CD) - Absolute Music 31
+Audio (CD) - Absolute Music 38
+Audio (CD) - Bass Power 5
+Audio (CD) - Dance Chart 32
+Audio (CD) - Super Hits 1 (various artists)
+Audio (CD) - Mixed music (various artists)
+Audio (CD) - Dr. Bombay - Rice & Curry
+Audio (CD) - Erlend Bratland - True Colors
+Audio (CD) - Eurovision Song Contest 2005
+Audio (CD) - Evanescence - The Open Door
+Audio (CD) - Frédéric Chopin
+Audio (CD) - Funker Vogt - Aviator
+Audio (CD) - Gamlehov - Roill Over
+Audio (CD) - Gry Luka & Peter Schmeichel - We Can Do It
+Audio (CD) - Hampenberg - Duck Off
+Audio (CD) - H.C. Andersen - Vintereventyr
+Audio (CD) - Il Divo - The Christmas Collection
+Audio (CD) - Linkin Park - Minutes to Midnight
+Audio (CD) - Lukas Graham - ?
+Audio (CD) - McMusic - Hit & Dance 3
+Audio (CD) - Michael Bolton - Georgia on my Mind
+Audio (CD) - Myself - House of the Rising Sun
+Audio (CD) - Nintendo - Love, Peace & Happiness
+Audio (CD) - NOW 14
+Audio (CD) - Digital Sound Theater - Nærkontakt
+Audio (CD) - Pokémon - Danish soundtrack from the anime
+Audio (CD) - Pokémon - The First Movie
+Audio (CD) - Safri Duo - Episode II
+Audio (CD) - Schnappi und seine Freunde
+Audio (CD) - Shuko & DJ concept - Echo Unltd. Vol. 1
+Audio (CD) - Smurfehits 4
+Audio (CD) - Techno Dance Valencia
+Audio (CD) - Total Dance 7
+Audio (CD) - Young Stars 6
+Movie (DVD) - Monster House
+Movie (DVD) - Benchwarmers
+Audio (CD) - Enrique Iglesias - Enrique
+TV Series (DVD) - American Dad season 1
+CD - Backup 1
+CD - USB Casette Player Driver Software
+CD - Recovery HP 1+2
+CD - DVD special, 12 full programs
+CD - Blank CD after DVD special
+DVD - PC Planet programs + games
+CD - Sibelius
+CD English-Danish-English Gyldendahl
+Audio (CD) - Rosenborg Radio
+CD - Small blank CD x2 after Rosenborg Radio
+CD - Retskrivnings- og betydningsordbog
+Audio (CD) - Adam Ant
+CD - Politikens Nudansk ordbog
+CD - Backup 2
+Audio (CD) - Metallica - Death Magnetic
+CD - Backup 3
+Audio (CD) - Johnny Bazookatone
+Audio (CD) - Dansk melodi grand prix 2004
+Audio (CD) - Britney Spears - In the Zone
+Audio (CD) - Dansk melodi grand prix junior 2003 or 2005
+Audio (CD) - Black Eyed Peas - Elephunk
+CD - "[my name] 06/10-04"??
+Audio (CD) - Mixed music 3
+Audio (CD) - McMusic 19
+CD - Blank CD after McMusic 19
+Audio (CD) - Mixed music 2
+CD - My pictures
+CD - My pictures from 11.07.04
+Audio (CD) - Hel- og halvjohansen
+CD - Rave eJay
+CD - Blank CD after Rave eJay
+CD - German course
+CD - Blank CD after German course
+Game (PC) - Lego Stunt Rally
+CD - TI-89 Titanium and Voyage^tm 200
+Game (PC) - Roller Coaster Tycoon III
+CD - Blank CD after RCT3
+CD - Blank CD after blank CD after RCT3
+Game (PS3) - Uncharted 2
+Game (PS3) - Uncharted 3
+Game (Switch) - Crash Bandicoot N.-SANE Trilogy
+Game (Switch) - Let's Go Pikachu
+Game (Switch) - Let's Go Eevee
+Game (Switch) - CTR Nitro-fueled
+Game (Switch) - Legend of Zelda: Breath of the Wild
+Board game - Puzzle in a bucket
+Booklet - Mickey Mouse cross
+Booklet - Sofus' younger brother
+Booklet - Younger brother crosswords and spare time
+Folder - The ship is loaded with
+Pile of paper - Pile number 2: Electric boogaloo (lots of stuff from school)
+Big booklet - Big booklet from school x52
+Small booklet - Small booklet from school x43
+Folder - Folders with paper from school x45
+Plasticfolder - Pile of papers inside
+Letter - Letter from old class before moving
+Movie (DVD) - Metallica documentary
+Movie (VHS) - Pokémon the First Movie
+Movie (VHS) - Pokémon the Movie 2000
+VHS - Various recordings 1-3
+Cassette tape - Lady and the Tramp
+Cassette tape - Bambi: The Secret of the butterflies
+Cassette tape - Julie Walsøe - X-mas songs
+Cassette tape - Kids traffic club 6½
+Cassette tape - Disney - Goofy
+Cassette tape - Blekkulf
+Cassette tape - Alf as a detective
+Cassette tape - Henning Vilén - Sailormelodies
+Cassette tape - Disney - Aladdin
+Cassette tape - Disney - Lion King
+Cassette tape - Disney - Cinderella
+Cassette tape - Disney - Pocahontas
+Cassette tape - Disney - Åh Abe!
+Cassette tape - Troldepus in zoo
+Cassette tape - My cassette tape
+Cassette tape - My fairy tale cassette tape
+Cassette tape - Mixtape mother
+Cassette tape - Homemade speaking 1-16
+DVC - blank
+LEGO - Sith Infiltrator (7151)
+LEGO - Life on Mars (7317)
+LEGO - Arachnoid Star Base (6977)
+LEGO - Set with sharks with an underwater something
+LEGO - Set with a house of some sorts with a blue door amongst others
+Python - Create a program that takes all unique words in a given song lyric and cross-check it against transcript of a speech to see if they can sing it
+Game (PC) - Destiny 2
+Game (PC) - Diablo 2
+Game (PC) - Call of Duty: Black Ops
+Game (PC) - Call of Duty: Modern Warfare 2
+Game (PC) - Halo: Combat Evolved
+Movie (DVD) - 28 Weeks Later
+Movie (DVD) - 127 Hours
+Movie (DVD) - All is Lost
+Movie (DVD) - American Sniper
+Movie (DVD) - Another Earth
+Movie (DVD) - Blade Runner
+Movie (DVD) - Dawn of the Planet of the Apes
+Movie (DVD) - Django Unchained
+Movie (DVD) - Dodgeball A True Underdog Story
+Movie (DVD) - Donnie Darko Director's Cut
+Movie (DVD) - Dredd
+Movie (DVD) - Due Date
+Movie (DVD) - Eagle Eye
+Movie (DVD) - Edge of Tomorrow
+Movie (DVD) - Epic
+Movie (DVD) - Escape Plan
+Movie (DVD) - Europa Report
+Movie (DVD) - Event Horizon
+Movie (DVD) - Exam
+Movie (DVD) - Exodus Gods and Kings
+Movie (DVD) - Fanboys
+Movie (DVD) - Forrest Gump
+Movie (DVD) - Mermaids: The Body Found
+Movie (DVD) - +1
+Movie (DVD) - 22 Bullets
+Movie (DVD) - Big Hero 6
+Movie (DVD) - Birdman
+Movie (DVD) - Guardians of the Galaxy
+Movie (DVD) - Interstellar
+Movie (DVD) - The Den
+Movie (DVD) - The Imitation Game
+Movie (DVD) - The Interview
+Movie (DVD) - The Shawshank Redemption
+Movie (DVD) - 28 Days Later
+Movie (DVD) - Cloudy with a Chance of Meatballs 1-2
+Movie (DVD) - How to train your Dragon 2
+Movie - Naruto - Ninjaclash in the Land of Snow
+Movie (DVD) - Taken 1-3
+Movie (DVD) - The Godfather 1-2
+Movie (DVD) - Toy Story 1-3
+Movie (DVD) - Frequency
+Movie (DVD) - Grativy
+Movie (DVD) - I Origins
+Movie (DVD) - Independence Day
+Movie (DVD) - John Carter
+Movie (DVD) - Man on a Ledge
+Movie (DVD) - Monster High Haunted
+Movie (DVD) - Nailbiters
+Movie (DVD) - Napoleon Dynamite
+Anime - Naruto 1-220
+Book - The Bible
+Book - The New Testament
+Can of Pringles - But with coins, old ones
+Movie (DVD) - Need for Speed
+Movie (DVD) - Oblivion
+Movie (DVD) - Oculus
+Movie (DVD) - One Eight Seven
+Movie (DVD) - Pandorum
+Movie (DVD) - Project X
+Movie (DVD) - Prometheus
+Movie (DVD) - Run Fatboy Run
+Movie (DVD) - Serenity
+Movie (DVD) - Seventh Son
+Movie (DVD) - Shoot'em Up
+Movie (DVD) - Stardust
+Movie (DVD) - Stargate (extended)
+Movie (DVD) - Sunshine
+Movie (DVD) - Super 8
+Movie (DVD) - Sword of Vengeance
+Movie (DVD) - The Dead Zone
+Movie (DVD) - The Fifth Element (remastered)
+Movie (DVD) - The Fluffy Movie Unity Through Laughter
+Movie (DVD) - The Forbidden Kingdom
+Movie (DVD) - The Gambler
+Movie (DVD) - The Lego Movie
+Movie (DVD) - The Man from the Earth
+Movie (DVD) - The Matrix 1-3
+Movie (DVD) - The Maze Runner
+Movie (DVD) - The Mist
+Movie (DVD) - The Ouija Experiment
+Movie (DVD) - The Perfect Storm
+Movie (DVD) - The Quiet Earth
+Movie (DVD) - The Salvation
+Movie (DVD) - The Sixth Sense
+Movie (DVD) - The Social Network
+Movie (DVD) - The Taking of Deborah Logan
+Movie (DVD) - The Thing
+Movie (DVD) - The Wolf of Wall Street
+Movie (DVD) - The World's End
+Movie (DVD) - Tom and Jerry in Shiver Me Whiskers
+Movie (DVD) - Transcendence
+Movie (DVD) - Tremors
+Movie (DVD) - Underworld
+Movie (DVD) - UP
+Movie (DVD) - Watchmen
+Movie (DVD) - Wild Card
+Game (PC) - Call of Duty: Modern Warfare (2019)
+Game (Wii) - Guitar Hero III: Legends of Rock
+Game (Wii) - Wii Sports
+Paper - Garbage but check anyways
+Anime - Pokémon
+Python - Euler's Project
+Fishing trip :)
+Go on a hike somewhere
+Movie (HBO) - Random
+Movie (Disney+) - Random
+TV series (HBO) - Random
+TV series (Disney+) - Random
+Roll for a Pokémon, find a shiny variant
+Box - Sort electronic stuff
+Game - Buy new refurbished game
+Desktop - Clean
+Game (PC) - Genshin Impact grinding session
+Game (GBC) - Pokémon Blue
+Game (GBC) - Pokémon Red
+Game (GBC) - Pokémon Gold
+Game (GBC) - Super Mario Land
+Game (GBC) - Wario Land 3
+Game (GBC) - Harry Potter and the Philosopher's Stone
+Game (GBC) - Dragon Ball Z: The Legendary Super Warriors
+Game (GBC) - The Legend of Zelda: Oracle of Ages
+Python - Improve this program
+Game (GBA) - Pokémon Sapphire
+Game (GBA) - Pokémon Ruby
+Game (GBA) - Pokémon Emerald
+Game (GBA) - Pokémon Leafgreen
+Game (GBA) - Super Mario Advance
+Game (GBA) - Lord of the Rings
+Game (GBA) - Lord of the Rings: Fellowship of the Ring
+Game (GBA) - Yu-Gi-Oh! The Forbidden Cards
+Game (GBA) - Megaman Battle Network 2
+Game (DS) - Virtual Yellow
+Game (DS) - Virtual Crystal
+Game (DS) - Pokémon Ranger
+Game (3DS) - Pokémon Y
+Game (3DS) - Pokémon Ultrasun
+Memory cards - Possibly pictures + more games on them for nintendo DS's
+Birthday calendar
+Game (Special console) - Lord of the Rings: Warrior of Middle-Earth
+Game (PC) - Clone Hero
