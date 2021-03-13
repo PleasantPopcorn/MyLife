@@ -571,3 +571,4 @@ Game (Steam) - Yu-Gi-Oh! Legacy of the Duelist
 Game (PC) - Minecraft
 Game (PC) - RuneScape
 Game (PC) - Diablo III
+Python - Pixelating a picture
