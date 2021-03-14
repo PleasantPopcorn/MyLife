@@ -20,15 +20,13 @@ class Scoreboard:
         self.scoreboard_flag_one = False
         self.scoreboard_flag_two = False
 
-        self.winnerFlag = False
-
 
 def Count_Lines():
     with open("UnfinishedBusiness.txt", "r") as f:
         print("Ladies and gentlemen.")
-        sleep(0.1)
+        sleep(1)
         print("You all know why we're here, so let's just get to it!")
-        sleep(0.1)
+        sleep(1)
         list_of_lines = f.readlines()
         uniqueEntries = len(list_of_lines)
         return uniqueEntries
@@ -40,14 +38,13 @@ def Randomize_Number(maxNum):
 def Find_The_Line(lineNumber):
     with open("UnfinishedBusiness.txt", "r") as f:
         another_list_of_lines = f.readlines()
-        chosenThing = another_list_of_lines[lineNumber - 1]
+        chosenThing = another_list_of_lines[lineNumber]
         return chosenThing
 
 def First_To_Three(Uti, Scoreboard, chosenThing):
     Uti.screen_clear()
 
     if Scoreboard.scoreboard_flag_one == False:
-        Uti.screen_clear()
         print("Randomly picked: " + chosenThing)
         sleep(0.1)
 
@@ -57,10 +54,9 @@ def First_To_Three(Uti, Scoreboard, chosenThing):
             Scoreboard.scoreboard_stage_two.append(chosenThing)
             Scoreboard.scoreboard_flag_one = True
 
-            print("\nCurrent things have 2 points each:\n\n")
+            print("\nCurrent thing has 2 points:\n\n")
 
-            for item in Scoreboard.scoreboard_stage_two:
-                print(item, end="\n")
+            print(chosenThing)
             sleep(0.1)
 
         if Scoreboard.scoreboard_flag_one == False:
@@ -69,10 +65,9 @@ def First_To_Three(Uti, Scoreboard, chosenThing):
             for item in Scoreboard.scoreboard_stage_one:
                 print(item, end="")
 
-        sleep(0.1)
+        sleep(2)
 
-    elif Scoreboard.scoreboard_flag_two == False:
-        Uti.screen_clear()
+    else:
         print("Randomly picked: " + chosenThing)
         sleep(0.1)
 
@@ -89,12 +84,7 @@ def First_To_Three(Uti, Scoreboard, chosenThing):
             for item in Scoreboard.scoreboard_stage_two:
                 print(item, end="")
 
-        sleep(0.1)
-
-    else:
-        Uti.screen_clear()
-        print(chosenThing, " is the winner!")
-        Scoreboard.winnerFlag = True
+        sleep(2)
 
 
 if __name__ == '__main__':
@@ -106,7 +96,8 @@ if __name__ == '__main__':
     while True:
         randomNumber = Randomize_Number(lines)
         chosenThing = Find_The_Line(randomNumber)
-        winFlag = First_To_Three(Uti, Scrbrd, chosenThing)
+        First_To_Three(Uti, Scrbrd, chosenThing)
 
-        if Scrbrd.winnerFlag == True:
+        if Scrbrd.scoreboard_flag_two == True:
+            print(chosenThing, " is the winner!")
             break
