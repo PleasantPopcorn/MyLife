@@ -46,7 +46,7 @@ def First_To_Three(Uti, Scoreboard, chosenThing):
 
     if Scoreboard.scoreboard_flag_one == False:
         print("Randomly picked: " + chosenThing)
-        sleep(0.1)
+        sleep(0.25)
 
         if chosenThing not in Scoreboard.scoreboard_stage_one:
             Scoreboard.scoreboard_stage_one.append(chosenThing)
@@ -57,7 +57,7 @@ def First_To_Three(Uti, Scoreboard, chosenThing):
             print("\nCurrent thing has 2 points:\n\n")
 
             print(chosenThing)
-            sleep(0.1)
+            sleep(0.25)
 
         if Scoreboard.scoreboard_flag_one == False:
             print("\nCurrent things have 1 point each:\n\n")
@@ -65,11 +65,11 @@ def First_To_Three(Uti, Scoreboard, chosenThing):
             for item in Scoreboard.scoreboard_stage_one:
                 print(item, end="")
 
-        sleep(2)
+        sleep(1)
 
     else:
         print("Randomly picked: " + chosenThing)
-        sleep(0.1)
+        sleep(0.25)
 
         if chosenThing not in Scoreboard.scoreboard_stage_one:
             Scoreboard.scoreboard_stage_one.append(chosenThing)
@@ -84,7 +84,7 @@ def First_To_Three(Uti, Scoreboard, chosenThing):
             for item in Scoreboard.scoreboard_stage_two:
                 print(item, end="")
 
-        sleep(2)
+        sleep(1)
 
 
 if __name__ == '__main__':
