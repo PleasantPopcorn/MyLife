@@ -572,3 +572,4 @@ Game (PC) - Minecraft
 Game (PC) - RuneScape
 Game (PC) - Diablo III
 Python - Pixelating a picture
+Game (PS3) - Demon's Souls
