@@ -571,8 +571,8 @@ LEGO - Set with a house of some sorts with a blue door amongst others
 Can of Pringles - But with coins, old ones
 Learn/improve Japanese
 Learn/improve Python
+Learn/improve math
 Improve piano
-Improve math
 Python - Create a program that takes all unique words in a given song lyric and cross-check it against transcript of a speech to see if they can sing it
 Python - Euler's Project
 Python - Improve this program
