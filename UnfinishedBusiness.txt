@@ -292,7 +292,6 @@ TV series (DVD) - 24 (The complete series including Live Another Day)
 TV series (DVD) - Friends season 1-10
 TV series (DVD) - Hannibal season 1-2
 TV Series (DVD) - American Dad season 1
-TV series (HBO) - Random
 TV series (Disney+) - Random
 Anime - Naruto 1-220
 Anime - Pokémon
@@ -461,7 +460,6 @@ Movie (DVD) - UP
 Movie (DVD) - Watchmen
 Movie (DVD) - Wild Card
 Movie - Naruto - Ninjaclash in the Land of Snow
-Movie (HBO) - Random
 Movie (Disney+) - Random
 Movie (VHS) - Pokémon the First Movie
 Movie (VHS) - Pokémon the Movie 2000
