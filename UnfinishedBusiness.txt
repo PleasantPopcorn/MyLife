@@ -39,14 +39,10 @@ Book - The Lost Symbol
 Book - Physics and Chemistry Lexicon
 Book - Barnas store Vitsebok
 Book - Vitsegiganten
-Book - Danish-English Gyldendahl
-Book - English-Danish Gyldendahl
-Book - Spanish-Danish Gyldendahl
 Book - Nutella
 Book - Pizza and Pasta
 Book - Digital Fortress
 Book - Deception Point
-Book - Spanish-Danish - Danish-Spanish Gyldendahl
 Book - The Bible
 Book - The New Testament
 Tiny book - About men
@@ -365,7 +361,7 @@ Movie (DVD) - Hancock
 Movie (DVD) - Live 09 Frank Hvam
 Movie (DVD) - Pan's Labyrinth
 Movie (DVD) - Die Hard 4.0
-Movie (DVD) - 28 Weeks Later
+Movie (DVD) - 28 Days Later + 28 Weeks Later
 Movie (DVD) - 127 Hours
 Movie (DVD) - All is Lost
 Movie (DVD) - American Sniper
@@ -398,7 +394,6 @@ Movie (DVD) - The Den
 Movie (DVD) - The Imitation Game
 Movie (DVD) - The Interview
 Movie (DVD) - The Shawshank Redemption
-Movie (DVD) - 28 Days Later
 Movie (DVD) - Cloudy with a Chance of Meatballs 1-2
 Movie (DVD) - How to train your Dragon 2
 Movie (DVD) - Metallica documentary
