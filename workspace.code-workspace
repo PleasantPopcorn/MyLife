@@ -4,5 +4,18 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.encoding": "utf8bom",
+		"[json]": {
+
+			"editor.quickSuggestions": {
+				"strings": true
+			},
+			"editor.suggest.insertMode": "replace"
+		},
+		"[powershell]": {
+			"files.encoding": "utf8bom",
+			"files.autoGuessEncoding": true
+		}
+	}
 }
