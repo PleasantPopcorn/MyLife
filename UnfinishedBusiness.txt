@@ -11,7 +11,7 @@ Book - Fairy tales by H.C. Andersen
 Book - My best 365 bedtime stories
 Book - Fantastic Beasts and where to find them
 Book - Matema10k (math book)
-Book - Elektronik StÃ¥bi
+Book - Elektronik Ståbi
 Book - Analog electronics theory
 Book - Dragons of Autumn Twilight + of Winter Night + of Spring Dawning
 Book - The Technician
@@ -69,7 +69,7 @@ Paper - Garbage but check anyways
 Booklet - Sudoku (pocket)
 Booklet - Logic Problems
 Booklet - Quiz-cross magazine
-Booklet - FÃ¼r Elise
+Booklet - Für Elise
 Booklet - Sudoku calendar
 Booklet - 750 questions and answers
 Booklet - Pocket scout
@@ -84,18 +84,18 @@ Small booklet - Small booklet from school x43
 Writing booklets - Notes taken etc.
 Letter - Letter from old class before moving
 Birthday calendar
-Game (GBC) - PokÃ©mon Blue
-Game (GBC) - PokÃ©mon Red
-Game (GBC) - PokÃ©mon Gold
+Game (GBC) - Pokémon Blue
+Game (GBC) - Pokémon Red
+Game (GBC) - Pokémon Gold
 Game (GBC) - Super Mario Land
 Game (GBC) - Wario Land 3
 Game (GBC) - Harry Potter and the Philosopher's Stone
 Game (GBC) - Dragon Ball Z: The Legendary Super Warriors
 Game (GBC) - The Legend of Zelda: Oracle of Ages
-Game (GBA) - PokÃ©mon Sapphire
-Game (GBA) - PokÃ©mon Ruby
-Game (GBA) - PokÃ©mon Emerald
-Game (GBA) - PokÃ©mon Leafgreen
+Game (GBA) - Pokémon Sapphire
+Game (GBA) - Pokémon Ruby
+Game (GBA) - Pokémon Emerald
+Game (GBA) - Pokémon Leafgreen
 Game (GBA) - Super Mario Advance
 Game (GBA) - Lord of the Rings
 Game (GBA) - Lord of the Rings: Fellowship of the Ring
@@ -103,15 +103,15 @@ Game (GBA) - Yu-Gi-Oh! The Forbidden Cards
 Game (GBA) - Megaman Battle Network 2
 Game (DS) - Virtual Yellow
 Game (DS) - Virtual Crystal
-Game (DS) - PokÃ©mon Ranger
-Game (3DS) - PokÃ©mon Y
-Game (3DS) - PokÃ©mon Ultrasun
+Game (DS) - Pokémon Ranger
+Game (3DS) - Pokémon Y
+Game (3DS) - Pokémon Ultra Sun
 Game (Switch) - Crash Bandicoot N.-SANE Trilogy
 Game (Switch) - Let's Go Pikachu
 Game (Switch) - Let's Go Eevee
 Game (Switch) - CTR Nitro-fueled
 Game (Switch) - Legend of Zelda: Breath of the Wild
-Game (Switch) - PokÃ©mon Shield
+Game (Switch) - Pokémon Shield
 Game (Wii) - Guitar Hero III: Legends of Rock
 Game (Wii) - Wii Sports
 Game (Xbox 360) - Assassin's Creed III
@@ -162,6 +162,7 @@ Game (Steam) - AdventureQuest 3D
 Game (Steam) - Alien Swarm: Reactive Drop
 Game (Steam) - Amnesia: The Dark Descent
 Game (Steam) - Arma 3
+Game (Steam) - Assassin's Creed
 Game (Steam) - The Binding of Isaac
 Game (Steam) - Baseball Mogul Diamond
 Game (Steam) - Black Desert Online
@@ -277,21 +278,20 @@ Game (Steam) - Wolfenstein: Youngblood
 Game (Steam) - Bulb Boy
 Game (Steam) - Splasher
 Game - Buy new refurbished game
-Board game - PlÃ¶n spiel (german monopoly, based on a town)
+Board game - Plön spiel (german monopoly, based on a town)
 Board game - Puzzle (500)
 Board game - Puzzle (1000)
 Board game - Puzzle in a bucket
-Roll for a PokÃ©mon, find a shiny variant
+Roll for a Pokémon, find a shiny variant
 TV series (DVD) - LOST season 1-4
 TV series (DVD) - TAKEN season 1
 TV series (DVD) - 24 (The complete series including Live Another Day)
 TV series (DVD) - Friends season 1-10
 TV series (DVD) - Hannibal season 1-2
 TV Series (DVD) - American Dad season 1
-TV series (Disney+) - Random
 Anime - Naruto 1-220
-Anime - PokÃ©mon
-DVC - blank
+Anime - Pokémon
+DVC - Blank
 DVD - DVD special, 12 full programs
 DVD - PC Planet programs + games
 Movie (DVD) - 24: Redemption
@@ -341,7 +341,7 @@ Movie (DVD) - Taxi
 Movie (DVD) - Wedding Crashers
 Movie (DVD) - Chaos
 Movie (DVD) - Inception
-Movie (DVD) - BÃ¸rnehjemmet
+Movie (DVD) - Børnehjemmet
 Movie (DVD) - Apocalypto
 Movie (DVD) - Van the Man
 Movie (DVD) - The Bourne Supremacy
@@ -456,8 +456,8 @@ Movie (DVD) - Watchmen
 Movie (DVD) - Wild Card
 Movie - Naruto - Ninjaclash in the Land of Snow
 Movie (Disney+) - Random
-Movie (VHS) - PokÃ©mon the First Movie
-Movie (VHS) - PokÃ©mon the Movie 2000
+Movie (VHS) - Pokémon the First Movie
+Movie (VHS) - Pokémon the Movie 2000
 VHS - Various recordings 1-3
 Audio (CD) - Absolute Hits 2012
 Audio (CD) - Absolute Music 31
@@ -470,7 +470,7 @@ Audio (CD) - Dr. Bombay - Rice & Curry
 Audio (CD) - Erlend Bratland - True Colors
 Audio (CD) - Eurovision Song Contest 2005
 Audio (CD) - Evanescence - The Open Door
-Audio (CD) - FrÃ©dÃ©ric Chopin
+Audio (CD) - Frédéric Chopin
 Audio (CD) - Funker Vogt - Aviator
 Audio (CD) - Gamlehov - Roill Over
 Audio (CD) - Gry Luka & Peter Schmeichel - We Can Do It
@@ -484,9 +484,9 @@ Audio (CD) - Michael Bolton - Georgia on my Mind
 Audio (CD) - Myself - House of the Rising Sun
 Audio (CD) - Nintendo - Love, Peace & Happiness
 Audio (CD) - NOW 14
-Audio (CD) - Digital Sound Theater - NÃ¦rkontakt
-Audio (CD) - PokÃ©mon - Danish soundtrack from the anime
-Audio (CD) - PokÃ©mon - The First Movie
+Audio (CD) - Digital Sound Theater - Nærkontakt
+Audio (CD) - Pokémon - Danish soundtrack from the anime
+Audio (CD) - Pokémon - The First Movie
 Audio (CD) - Safri Duo - Episode II
 Audio (CD) - Schnappi und seine Freunde
 Audio (CD) - Shuko & DJ concept - Echo Unltd. Vol. 1
@@ -531,17 +531,17 @@ CD - Blank CD after RCT3
 CD - Blank CD after blank CD after RCT3
 Cassette tape - Lady and the Tramp
 Cassette tape - Bambi: The Secret of the butterflies
-Cassette tape - Julie WalsÃ¸e - X-mas songs
+Cassette tape - Julie Walsøe - X-mas songs
 Cassette tape - Kids traffic club 6Â½
 Cassette tape - Disney - Goofy
 Cassette tape - Blekkulf
 Cassette tape - Alf as a detective
-Cassette tape - Henning VilÃ©n - Sailormelodies
+Cassette tape - Henning Vilén - Sailormelodies
 Cassette tape - Disney - Aladdin
 Cassette tape - Disney - Lion King
 Cassette tape - Disney - Cinderella
 Cassette tape - Disney - Pocahontas
-Cassette tape - Disney - Ã…h Abe!
+Cassette tape - Disney - Åh Abe!
 Cassette tape - Troldepus in zoo
 Cassette tape - My cassette tape
 Cassette tape - My fairy tale cassette tape
@@ -553,7 +553,7 @@ Laptop - #3 Save anything interesting, then format and install W10 over linux, m
 Desktop - Clean
 Memory cards - Possibly pictures + more games on them for nintendo DS's
 Box - Memories, pictures, letters etc.
-Box - PokÃ©mon cards (fuck yeah)
+Box - Pokémon cards (fuck yeah)
 Box - Yu-Gi-Oh! cards (hell yeah)
 Box - Sort electronic stuff
 LEGO - Sith Infiltrator (7151)
