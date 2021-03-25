@@ -1,8 +1,4 @@
 Book - The Recording Studio
-Book - Memories and messages from my boarding school
-Book - PS3 Wonderbook
-Book - Guinness World Records 2006
-Book - Guinness World Records 2007
 Book - Analog technology
 Book - Digital technology
 Book - A Promised Land
@@ -17,11 +13,6 @@ Book - Dragons of Autumn Twilight + of Winter Night + of Spring Dawning
 Book - The Technician
 Book - The Green Mile
 Book - Dreamcatcher
-Book - Disney's X-mas Classics 11
-Book - Disney's X-mas Classics 12
-Book - Disney's X-mas Classics 13
-Book - Donald Duck's X-mas Stories 1997
-Book - Donald Duck's X-mas Stories 2003
 Book - Barnas Beste - Gapatrosten
 Book - Harry Potter 1-7 + the Cursed Child
 Book - Elementary Linear Algebra
@@ -33,18 +24,13 @@ Book - The Amulet of Samarkand
 Book - The Hypnotist
 Book - The Shamer's Daughter
 Book - Endgame
-Book - Angels and Demons
-Book - The Da Vinci Code
-Book - The Lost Symbol
+Book - Angels and Demons + The Da Vinci Code + The Lost Symbol
 Book - Physics and Chemistry Lexicon
-Book - Barnas store Vitsebok
-Book - Vitsegiganten
 Book - Nutella
 Book - Pizza and Pasta
 Book - Digital Fortress
 Book - Deception Point
 Book - The Bible
-Book - The New Testament
 Tiny book - About men
 Folder - Hameg HM8122
 Folder - Sailor RT2048
@@ -62,23 +48,12 @@ Folder - Folders with paper from school x45
 Folder - The ship is loaded with
 Folders and such - Various grades from various schools
 Plasticfolder - Pile of papers inside
-Magazines - Illustrated Science
 Pile of paper - Notes, paper, assignments, anything
 Pile of paper - Pile number 2: Electric boogaloo (lots of stuff from school)
-Paper - Garbage but check anyways
-Booklet - Sudoku (pocket)
-Booklet - Logic Problems
-Booklet - Quiz-cross magazine
-Booklet - Für Elise
-Booklet - Sudoku calendar
-Booklet - 750 questions and answers
+Booklet - Für Elise sheets
 Booklet - Pocket scout
 Booklet - Workplace for scouts
 Booklet - Workplaces for wolves
-Booklet - Insights profile
-Booklet - Mickey Mouse cross
-Booklet - Sofus' younger brother
-Booklet - Younger brother crosswords and spare time
 Big booklet - Big booklet from school x52
 Small booklet - Small booklet from school x43
 Writing booklets - Notes taken etc.
