@@ -43,7 +43,6 @@ Folder - Introduction to LabVIEW and Computer-Based Measurements
 Folder - Blue, Math B
 Folder - Drawing folder
 Folder - Black folder for holding documents, opens differently than others
-Folder - Hyundai Finance
 Folder - Folders with paper from school x45
 Folder - The ship is loaded with
 Folders and such - Various grades from various schools
@@ -58,55 +57,36 @@ Big booklet - Big booklet from school x52
 Small booklet - Small booklet from school x43
 Writing booklets - Notes taken etc.
 Letter - Letter from old class before moving
-Birthday calendar
-Game (GBC) - Pokémon Blue
-Game (GBC) - Pokémon Red
-Game (GBC) - Pokémon Gold
-Game (GBC) - Super Mario Land
+Take care of books that was removed
+Game - Pokémon Blue, Red, Yellow, Gold, Crystal, Sapphire, Ruby, Emerald, Leafgreen, Ranger, Y, Let's Go Pikachu, Let's Go Eevee, Shield
+Game - Super Mario Land, Super Mario Advance
+Game - Assassin's Creed (all of 'em)
+Game - Call of Duty (all of 'em)
 Game (GBC) - Wario Land 3
 Game (GBC) - Harry Potter and the Philosopher's Stone
 Game (GBC) - Dragon Ball Z: The Legendary Super Warriors
-Game (GBC) - The Legend of Zelda: Oracle of Ages
-Game (GBA) - Pokémon Sapphire
-Game (GBA) - Pokémon Ruby
-Game (GBA) - Pokémon Emerald
-Game (GBA) - Pokémon Leafgreen
-Game (GBA) - Super Mario Advance
-Game (GBA) - Lord of the Rings
-Game (GBA) - Lord of the Rings: Fellowship of the Ring
-Game (GBA) - Yu-Gi-Oh! The Forbidden Cards
+Game - The Legend of Zelda: Oracle of Ages, Breath of the Wild
+Game - Lord of the Rings, Lord of the Rings: Fellowship of the Ring, Lord of the Rings: Battle for Middle-Earth II, Lord of the Rings: Warrior of Middle-Earth
+Game - Yu-Gi-Oh! The Forbidden Cards, Duel Links, Legacy of the Duelist
 Game (GBA) - Megaman Battle Network 2
-Game (DS) - Virtual Yellow
-Game (DS) - Virtual Crystal
-Game (DS) - Pokémon Ranger
-Game (3DS) - Pokémon Y
-Game (3DS) - Pokémon Ultra Sun
 Game (Switch) - Crash Bandicoot N.-SANE Trilogy
-Game (Switch) - Let's Go Pikachu
-Game (Switch) - Let's Go Eevee
 Game (Switch) - CTR Nitro-fueled
-Game (Switch) - Legend of Zelda: Breath of the Wild
-Game (Switch) - Pokémon Shield
 Game (Wii) - Guitar Hero III: Legends of Rock
 Game (Wii) - Wii Sports
-Game (Xbox 360) - Assassin's Creed III
 Game (Xbox 360) - Guitar Hero - Warriors of Rock
 Game (Xbox 360) - Guitar Hero Live
-Game (PS3) - Demon's Souls
-Game (PS3) - Uncharted 2
-Game (PS3) - Uncharted 3
-Game (PC) - Dance eJay + space sounds
-Game (PC) - Diablo
+Game - Demon's Souls, Dark Souls: Remastered, Dark Souls II: Scholar of the First Sin, Dark Souls III
+Game (PS3) - Uncharted 2, Uncharted 3
+Program (PC) - Dance eJay + space sounds, Rave eJay
+Game (PC) - Diablo, Diablo II, Diablo III
 Game (PC) - Enter the Matrix
-Game (PC) - GTA: Vice City
-Game (PC) - Heroes of Might & Magic III
-Game (PC) - Heroes of Might & Magic V
-Game (PC) - Kohan: Immortal Sovereigns
+Game (PC) - GTA: Vice City, GTA V
+Game (PC) - Heroes of Might & Magic III, V
+Game (PC) - Kohan: Immortal Sovereigns, Kohan: Ahriman's Gift, Kohan II: Kings of War
 Game (PC) - Mall Tycoon
 Game (PC) - Might & Magic: Clash of Heroes
 Game (PC) - Need for Speed: Hot Pursuit 2
 Game (PC) - Painkiller
-Game (PC) - Lord of the Rings: Battle for Middle-Earth II
 Game (PC) - Roller Coaster Tycoon 2 + Time Twister + Wacky Worlds
 Game (PC) - Theme Park World
 Game (PC) - Trackmania Sunrise
@@ -118,49 +98,29 @@ Game (PC) - Hunting Unlimited 4
 Game (PC) - Team Fortress 2
 Game (PC) - Portal
 Game (PC) - Half-Life 2: Episode Two
-Game (PC) - Counter-Strike Source
 Game (PC) - Minecraft
-Game (PC) - Diablo III
 Game (PC) - Genshin Impact grinding session
 Game (PC) - Clone Hero
-Game (PC) - Call of Duty: Modern Warfare (2019)
 Game (PC) - Destiny 2
-Game (PC) - Diablo 2
-Game (PC) - Call of Duty: Black Ops
-Game (PC) - Call of Duty: Modern Warfare 2
 Game (PC) - Halo: Combat Evolved
 Game (PC) - Lego Stunt Rally
 Game (PC) - Roller Coaster Tycoon III
-Game (Special console) - Lord of the Rings: Warrior of Middle-Earth
 Game (Steam) - AdventureQuest 3D
 Game (Steam) - Alien Swarm: Reactive Drop
 Game (Steam) - Amnesia: The Dark Descent
 Game (Steam) - Arma 3
-Game (Steam) - Assassin's Creed
 Game (Steam) - The Binding of Isaac
 Game (Steam) - Baseball Mogul Diamond
 Game (Steam) - Black Desert Online
 Game (Steam) - Blasphemous
 Game (Steam) - Bloodbath Kavkaz
-Game (Steam) - Borderlands 2
-Game (Steam) - Borderlands GOTY
-Game (Steam) - Borderlands GOTY Enhanced
-Game (Steam) - Borderlands: The Pre-Sequel
+Game (Steam) - Borderlands GOTY, GOTY Enhanced, 2, The Pre-Sequel
 Game (Steam) - Botanicula
-Game (Steam) - Call of Duty
-Game (Steam) - Call of Duty 2
-Game (Steam) - Call of Duty: United Offensive
 Game (Steam) - Cook, Serve, Delicious!
-Game (Steam) - Counter-Strike
-Game (Steam) - Counter-Strike: Condition Zero
-Game (Steam) - Counter-Strike: Global Offensive
-Game (Steam) - Counter-Strike: Counter-Strike Source
+Game - Counter-Strike, Condition Zero, Global Offensive, Counter-Strike Source
 Game (Steam) - Crypt of the NecroDancer
 Game (Steam) - Cube World
 Game (Steam) - The Culling Of The Cows
-Game (Steam) - Dark Souls: Remastered
-Game (Steam) - Dark Souls II: Scholar of the First Sin
-Game (Steam) - Dark Souls III
 Game (Steam) - Darkest Dungeon
 Game (Steam) - Dungeons & Dragons Online
 Game (Steam) - Earth 2150: Lost Souls
@@ -174,7 +134,6 @@ Game (Steam) - Frozen Free Fall: Snowball Fight
 Game (Steam) - Go! Go! Nippon! ~My First Trip to Japan~
 Game (Steam) - Goat Simulator
 Game (Steam) - Golf It!
-Game (Steam) - Grand Theft Auto V
 Game (Steam) - Grim Legends: The Forsaken Bride
 Game (Steam) - Hades
 Game (Steam) - Half Minute Hero: Super Mega Neo Climax Ultimate Boy
@@ -186,19 +145,7 @@ Game (Steam) - It Lurks Below
 Game (Steam) - Just Cause 2
 Game (Steam) - King's Bounty: Dark Side
 Game (Steam) - Knights and Merchants
-Game (Steam) - Kohan: Ahriman's Gift
-Game (Steam) - Kohan II: Kings of War
-Game (Steam) - LEGO Batman: The Videogame
-Game (Steam) - LEGO Batman 2: DC Super Heroes
-Game (Steam) - LEGO Batman 3: Beyond Gotham
-Game (Steam) - LEGO Harry Potter: Years 1-4
-Game (Steam) - LEGO Harry Potter: Years 5-7
-Game (Steam) - LEGO Pirates of the Caribbean The Video Game
-Game (Steam) - LEGO Star Wars: The Complete Saga
-Game (Steam) - LEGO Star Wars III: The Clone Wars
-Game (Steam) - LEGO Star Wars: The Force Awakens
-Game (Steam) - LEGO The Hobbit
-Game (Steam) - LEGO The Lord of the Rings
+Game (Steam) - Batman: The Videogame, Batman 2: DC Super Heroes, Batman 3: Beyond Gotham, Pirates of the Caribbean The Video Game, Harry Potter: Years 1-4, Harry Potter: Years 5-7, Star Wars: The Complete Saga, Star Wars III: The Clone Wars, Star Wars: The Force Awakens, The Hobbit, The Lord of the Rings
 Game (Steam) - McPixel
 Game (Steam) - Monster Hunter: World
 Game (Steam) - N++
@@ -207,12 +154,7 @@ Game (Steam) - Nioh: Complete Edition
 Game (Steam) - No Man's Sky
 Game (Steam) - Osteya
 Game (Steam) - Particula
-Game (Steam) - Pixel Puzzles 2: Anime
-Game (Steam) - Pixel Puzzles 2: Birds
-Game (Steam) - Pixel Puzzles: Japan
-Game (Steam) - Pixel Puzzles Traditional Jigsaws
-Game (Steam) - Pixel Puzzles Ultimate
-Game (Steam) - Pixel Puzzles: UndeadZ
+Game (Steam) - Pixel Puzzles 2: Anime, Pixel Puzzles 2: Birds, Pixel Puzzles: Japan, Pixel Puzzles Traditional Jigsaws, Pixel Puzzles Ultimate, Pixel Puzzles: UndeadZ
 Game (Steam) - Planet Centauri
 Game (Steam) - Portal Knights
 Game (Steam) - Qubburo 2
@@ -223,9 +165,7 @@ Game (Steam) - RollerCoaster Tycoon Classic
 Game (Steam) - Scribblenauts Unlimited
 Game (Steam) - The Secret Order 5: The Buried Kingdom
 Game (Steam) - Septerra Core
-Game (Steam) - Serious Sam 3: BFE
-Game (Steam) - Serious Sam Fusion 2017
-Game (Steam) - Serious Sam HD: The Second Encounter
+Game (Steam) - Serious Sam 3: BFE, Serious Sam Fusion 2017, Serious Sam HD: The Second Encounter
 Game (Steam) - SHOGUN: Total War - Collection
 Game (Steam) - The Showdown Effect
 Game (Steam) - Shut Up And Dig
@@ -240,26 +180,21 @@ Game (Steam) - Uncanny Valley
 Game (Steam) - Undertale
 Game (Steam) - Unturned
 Game (Steam) - Warframe
-Game (Steam) - Warhammer 40,000: Space Marine
-Game (Steam) - Warhammer: Vermintide 2
+Game (Steam) - Warhammer 40,000: Space Marine, Warhammer: Vermintide 2
 Game (Steam) - Watch_Dogs
 Game (Steam) - The Wolf Among Us
 Game (Steam) - X-Blades
-Game (Steam) - Yu-Gi-Oh! Duel Links
-Game (Steam) - Yu-Gi-Oh! Legacy of the Duelist
 Game (Steam) - Smoke and Sacrifice
 Game (Steam) - Wolfenstein: Youngblood
 Game (Steam) - Bulb Boy
 Game (Steam) - Splasher
 Game - Buy new refurbished game
 Board game - Plön spiel (german monopoly, based on a town)
-Board game - Puzzle (500)
-Board game - Puzzle (1000)
-Board game - Puzzle in a bucket
+Board game - Puzzle (500), Puzzle (1000), Puzzle in a bucket
 Roll for a Pokémon, find a shiny variant
 TV series (DVD) - LOST season 1-4
 TV series (DVD) - TAKEN season 1
-TV series (DVD) - 24 (The complete series including Live Another Day)
+TV series (DVD) - 24 (The complete series including Live Another Day), 24: Redemption
 TV series (DVD) - Friends season 1-10
 TV series (DVD) - Hannibal season 1-2
 TV Series (DVD) - American Dad season 1
@@ -268,21 +203,11 @@ Anime - Pokémon
 DVC - Blank
 DVD - DVD special, 12 full programs
 DVD - PC Planet programs + games
-Movie (DVD) - 24: Redemption
-Movie (DVD) - Goldeneye
+Movie (DVD) - Goldeneye, Die Another Day, Octopussy, Thunderball, License to Kill, Tomorrow Never Dies, The Living Daylights
 Movie (DVD) - Transformers
 Movie (DVD) - The Rock
-Movie (DVD) - Die Another Day
 Movie (DVD) - Sniper
-Movie (DVD) - And Now for Something Completely Different
-Movie (DVD) - Monty Python and the Holy Grail
-Movie (DVD) - Life of Brian
-Movie (DVD) - The Meaning of Life
-Movie (DVD) - Octopussy
-Movie (DVD) - Thunderball
-Movie (DVD) - License to Kill
-Movie (DVD) - Tomorrow Never Dies
-Movie (DVD) - The Living Daylights
+Movie (DVD) - And Now for Something Completely Different, Monty Python and the Holy Grail, Life of Brian, The Meaning of Life
 Movie (DVD) - National Treasure 1-2
 Movie (DVD) - Pirates of the Caribbean 1-4
 Movie (DVD) - Street Kings
@@ -343,7 +268,7 @@ Movie (DVD) - Another Earth
 Movie (DVD) - Blade Runner
 Movie (DVD) - Dawn of the Planet of the Apes
 Movie (DVD) - Django Unchained
-Movie (DVD) - Dodgeball A True Underdog Story
+Movie (DVD) - Dodgeball: A True Underdog Story
 Movie (DVD) - Donnie Darko Director's Cut
 Movie (DVD) - Dredd
 Movie (DVD) - Due Date
@@ -377,7 +302,7 @@ Movie (DVD) - Taken 1-3
 Movie (DVD) - The Godfather 1-2
 Movie (DVD) - Toy Story 1-3
 Movie (DVD) - Frequency
-Movie (DVD) - Grativy
+Movie (DVD) - Gravity
 Movie (DVD) - I Origins
 Movie (DVD) - Independence Day
 Movie (DVD) - John Carter
@@ -429,12 +354,9 @@ Movie (DVD) - UP
 Movie (DVD) - Watchmen
 Movie (DVD) - Wild Card
 Movie - Naruto - Ninjaclash in the Land of Snow
-Movie (VHS) - Pokémon the First Movie
-Movie (VHS) - Pokémon the Movie 2000
-VHS - Various recordings 1-3
+Movie (VHS) - Pokémon the First Movie, Pokémon the Movie 2000, Various recordings 1-3
 Audio (CD) - Absolute Hits 2012
-Audio (CD) - Absolute Music 31
-Audio (CD) - Absolute Music 38
+Audio (CD) - Absolute Music 31, 38
 Audio (CD) - Bass Power 5
 Audio (CD) - Dance Chart 32
 Audio (CD) - Super Hits 1 (various artists)
@@ -458,8 +380,7 @@ Audio (CD) - Myself - House of the Rising Sun
 Audio (CD) - Nintendo - Love, Peace & Happiness
 Audio (CD) - NOW 14
 Audio (CD) - Digital Sound Theater - Nærkontakt
-Audio (CD) - Pokémon - Danish soundtrack from the anime
-Audio (CD) - Pokémon - The First Movie
+Audio (CD) - Pokémon - Danish soundtrack from the anime, The First Movie
 Audio (CD) - Safri Duo - Episode II
 Audio (CD) - Schnappi und seine Freunde
 Audio (CD) - Shuko & DJ concept - Echo Unltd. Vol. 1
@@ -485,17 +406,13 @@ CD - USB Casette Player Driver Software
 CD - Recovery HP 1+2
 CD - Blank CD after DVD special
 CD - Sibelius
-CD English-Danish-English Gyldendahl
 CD - Small blank CD x2 after Rosenborg Radio
-CD - Retskrivnings- og betydningsordbog
-CD - Politikens Nudansk ordbog
 CD - Backup 2
 CD - Backup 3
 CD - My pictures
 CD - My pictures from 11.07.04
 CD - Blank CD after McMusic 19
 CD - "[my name] 06/10-04"??
-CD - Rave eJay
 CD - Blank CD after Rave eJay
 CD - German course
 CD - Blank CD after German course
@@ -506,15 +423,11 @@ Cassette tape - Lady and the Tramp
 Cassette tape - Bambi: The Secret of the butterflies
 Cassette tape - Julie Walsøe - X-mas songs
 Cassette tape - Kids traffic club 6Â½
-Cassette tape - Disney - Goofy
+Cassette tape - Disney - Goofy, Aladdin, Lion King, Cinderella, Pocahontas
 Cassette tape - Blekkulf
 Cassette tape - Alf as a detective
 Cassette tape - Henning Vilén - Sailormelodies
-Cassette tape - Disney - Aladdin
-Cassette tape - Disney - Lion King
-Cassette tape - Disney - Cinderella
-Cassette tape - Disney - Pocahontas
-Cassette tape - Disney - Åh Abe!
+Cassette tape - Åh Abe!
 Cassette tape - Troldepus in zoo
 Cassette tape - My cassette tape
 Cassette tape - My fairy tale cassette tape
@@ -529,20 +442,11 @@ Box - Memories, pictures, letters etc.
 Box - Pokémon cards (fuck yeah)
 Box - Yu-Gi-Oh! cards (hell yeah)
 Box - Sort electronic stuff
-LEGO - Sith Infiltrator (7151)
-LEGO - Life on Mars (7317)
-LEGO - Arachnoid Star Base (6977)
-LEGO - Set with sharks with an underwater something
-LEGO - Set with a house of some sorts with a blue door amongst others
-Doll - Jar Jar Binks
+LEGO - Sith Infiltrator (7151), Life on Mars (7317), Arachnoid Star Base (6977), Set with sharks with an underwater something, Set with a house of some sorts with a blue door amongst others
+Fix Jar Jar Binks doll
 Can of Pringles - But with coins, old ones
-Learn/improve Japanese
-Learn/improve Python
-Learn/improve math
+Learn/improve Japanese, Python, math
 Improve piano
-Python - Create a program that takes all unique words in a given song lyric and cross-check it against transcript of a speech to see if they can sing it
-Python - Euler's Project
-Python - Improve this program
-Python - Pixelating a picture
+Python - Create a program that takes all unique words in a given song lyric and cross-check it against transcript of a speech to see if they can sing it, Euler's Project, Improve this program, Pixelating a picture
 Fishing trip :)
 Go on a hike somewhere
