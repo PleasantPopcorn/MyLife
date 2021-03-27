@@ -54,7 +54,7 @@ Booklet - Workplaces for wolves
 Big booklet - Big booklet from school x52
 Small booklet - Small booklet from school x43
 Writing booklets - Notes taken etc.
-Letter - Letter from old class before moving
+Take care of letter from old class before moving
 Take care of books that was removed
 Game - Pokémon Blue, Red, Yellow, Gold, Crystal, Sapphire, Ruby, Emerald, Leafgreen, Ranger, Y, Let's Go Pikachu, Let's Go Eevee, Shield
 Game - Super Mario Land, Super Mario Advance
@@ -85,7 +85,7 @@ Game (PC) - Mall Tycoon
 Game (PC) - Might & Magic: Clash of Heroes
 Game (PC) - Need for Speed: Hot Pursuit 2
 Game (PC) - Painkiller
-Game (PC) - Roller Coaster Tycoon 2 + Time Twister + Wacky Worlds
+Game (PC) - RollerCoaster Tycoon Classic, Roller Coaster Tycoon 2 + Time Twister + Wacky Worlds
 Game (PC) - Theme Park World
 Game (PC) - Trackmania Sunrise
 Game (PC) - Worms World Party
@@ -159,7 +159,6 @@ Game (Steam) - Qubburo 2
 Game (Steam) - RimWorld
 Game (Steam) - Risk of Rain 2
 Game (Steam) - Rogue Legacy
-Game (Steam) - RollerCoaster Tycoon Classic
 Game (Steam) - Scribblenauts Unlimited
 Game (Steam) - The Secret Order 5: The Buried Kingdom
 Game (Steam) - Septerra Core
