@@ -39,7 +39,6 @@ Folder - EUC Syd Praktikcenter (place for interns-to-be)
 Folder - Switch Mode Power Supply course
 Folder - Introduction to LabVIEW and Computer-Based Measurements
 Folder - Blue, Math B
-Folder - Drawing folder
 Folder - Black folder for holding documents, opens differently than others
 Folder - Folders with paper from school x45
 Folder - The ship is loaded with
@@ -68,7 +67,6 @@ Game - Lord of the Rings, Lord of the Rings: Fellowship of the Ring, Lord of the
 Game - Yu-Gi-Oh! The Forbidden Cards, Duel Links, Legacy of the Duelist
 Game (GBA) - Megaman Battle Network 2
 Game (Switch) - Crash Bandicoot N.-SANE Trilogy
-Game (Switch) - CTR Nitro-fueled
 Game (Wii) - Guitar Hero III: Legends of Rock
 Game (Wii) - Wii Sports
 Game (Xbox 360) - Guitar Hero - Warriors of Rock
@@ -99,7 +97,6 @@ Game (PC) - Half-Life 2: Episode Two
 Game (PC) - Minecraft
 Game (PC) - Genshin Impact grinding session
 Game (PC) - Clone Hero
-Game (PC) - Destiny 2
 Game (PC) - Halo: Combat Evolved
 Game (PC) - Lego Stunt Rally
 Game (PC) - Roller Coaster Tycoon III
@@ -127,7 +124,6 @@ Game (Steam) - The Elder Scrolls V: Skyrim
 Game (Steam) - Empires of the Undergrowth
 Game (Steam) - Evoland
 Game (Steam) - Fallout 3 GOTY
-Game (Steam) - Far Cry
 Game (Steam) - Frozen Free Fall: Snowball Fight
 Game (Steam) - Go! Go! Nippon! ~My First Trip to Japan~
 Game (Steam) - Goat Simulator
@@ -195,8 +191,9 @@ TV series (DVD) - 24 (The complete series including Live Another Day), 24: Redem
 TV series (DVD) - Friends season 1-10
 TV series (DVD) - Hannibal season 1-2
 TV Series (DVD) - American Dad season 1
-Anime - Naruto 1-220
+Anime - Naruto
 Anime - Pokémon
+Anime - Dragon Ball
 DVC - Blank
 DVD - DVD special, 12 full programs
 DVD - PC Planet programs + games
@@ -253,7 +250,6 @@ Movie (DVD) - Midsomer Murders: The Sword of Guillaume
 Movie (DVD) - Beverly Hills Cop
 Movie (DVD) - 50 First Dates
 Movie (DVD) - Running Scared
-Movie (DVD) - Hancock
 Movie (DVD) - Live 09 Frank Hvam
 Movie (DVD) - Pan's Labyrinth
 Movie (DVD) - Die Hard 4.0
@@ -261,7 +257,6 @@ Movie (DVD) - 28 Days Later + 28 Weeks Later
 Movie (DVD) - 127 Hours
 Movie (DVD) - All is Lost
 Movie (DVD) - American Sniper
-Movie (DVD) - Another Earth
 Movie (DVD) - Blade Runner
 Movie (DVD) - Dawn of the Planet of the Apes
 Movie (DVD) - Django Unchained
@@ -395,7 +390,6 @@ Audio (CD) - Metallica - Death Magnetic
 Audio (CD) - Adam Ant
 Audio (CD) - Rosenborg Radio
 Audio (CD) - Mixed music 3
-Audio (CD) - McMusic 19
 Audio (CD) - Mixed music 2
 Audio (CD) - Hel- og halvjohansen
 CD - Backup 1
