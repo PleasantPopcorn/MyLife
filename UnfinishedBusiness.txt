@@ -29,7 +29,7 @@ Book - Pizza and Pasta
 Book - Digital Fortress
 Book - Deception Point
 Book - The Bible
-Tiny book - About men
+Book - About men (tiny)
 Folder - Hameg HM8122
 Folder - Sailor RT2048
 Folder - HG1E (from a school)
@@ -42,356 +42,357 @@ Folder - Blue, Math B
 Folder - Black folder for holding documents, opens differently than others
 Folder - Folders with paper from school x45
 Folder - The ship is loaded with
-Folders and such - Various grades from various schools
-Plasticfolder - Pile of papers inside
-Pile of paper - Notes, paper, assignments, anything
-Pile of paper - Pile number 2: Electric boogaloo (lots of stuff from school)
+Folder - Various grades from various schools
+Folder - Made of plastic with pile of papers inside
+Pile - Notes, paper, assignments, anything
+Pile - Pile number 2: Electric boogaloo (lots of stuff from school)
 Booklet - Für Elise sheets
 Booklet - Pocket scout
 Booklet - Workplace for scouts
 Booklet - Workplaces for wolves
-Big booklet - Big booklet from school x52
-Small booklet - Small booklet from school x43
-Writing booklets - Notes taken etc.
-Take care of letter from old class before moving
-Take care of books that was removed
+Booklet - Big booklet from school x52
+Booklet - Small booklet from school x43
+Booklet - Notes taken etc.
+Misc - Take care of letter from old class before moving
+Misc - Take care of books that was removed
 Game - Pokémon Blue, Red, Yellow, Gold, Crystal, Sapphire, Ruby, Emerald, Leafgreen, Ranger, Y, Ultra Moon, Let's Go Pikachu, Let's Go Eevee, Shield
 Game - Super Mario Land, Super Mario Advance
 Game - Assassin's Creed (all of 'em)
 Game - Call of Duty (all of 'em)
-Game (GBC) - Wario Land 3
-Game (GBC) - Harry Potter and the Philosopher's Stone
-Game (GBC) - Dragon Ball Z: The Legendary Super Warriors
+Game - Wario Land 3
+Game - Harry Potter and the Philosopher's Stone
+Game - Dragon Ball Z: The Legendary Super Warriors
 Game - The Legend of Zelda: Oracle of Ages, Breath of the Wild
 Game - Lord of the Rings, Lord of the Rings: Fellowship of the Ring, Lord of the Rings: Battle for Middle-Earth II, Lord of the Rings: Warrior of Middle-Earth
 Game - Yu-Gi-Oh! The Forbidden Cards, Duel Links, Legacy of the Duelist
-Game (GBA) - Megaman Battle Network 2
-Game (Switch) - Crash Bandicoot N.-SANE Trilogy
-Game (Wii) - Guitar Hero III: Legends of Rock
-Game (Wii) - Wii Sports
-Game (Xbox 360) - Guitar Hero - Warriors of Rock
-Game (Xbox 360) - Guitar Hero Live
+Game - Megaman Battle Network 2
+Game - Crash Bandicoot N.-SANE Trilogy
+Game - Guitar Hero III: Legends of Rock
+Game - Wii Sports
+Game - Guitar Hero - Warriors of Rock
+Game - Guitar Hero Live
 Game - Demon's Souls, Dark Souls: Remastered, Dark Souls II: Scholar of the First Sin, Dark Souls III
-Game (PS3) - Uncharted 2, Uncharted 3
-Program (PC) - Dance eJay + space sounds, Rave eJay
-Game (PC) - Diablo, Diablo II, Diablo III
-Game (PC) - Enter the Matrix
-Game (PC) - GTA: Vice City, GTA V
-Game (PC) - Heroes of Might & Magic III, V
-Game (PC) - Kohan: Immortal Sovereigns, Kohan: Ahriman's Gift, Kohan II: Kings of War
-Game (PC) - Mall Tycoon
-Game (PC) - Might & Magic: Clash of Heroes
-Game (PC) - Need for Speed: Hot Pursuit 2
-Game (PC) - Painkiller
-Game (PC) - RollerCoaster Tycoon Classic, Roller Coaster Tycoon 2 + Time Twister + Wacky Worlds
-Game (PC) - Theme Park World
-Game (PC) - Trackmania Sunrise
-Game (PC) - Worms World Party
-Game (PC) - XIII
-Game (PC) - World of Warcraft
-Game (PC) - World of Warcraft Classic
-Game (PC) - Hunting Unlimited 4
-Game (PC) - Team Fortress 2
-Game (PC) - Portal
-Game (PC) - Half-Life 2: Episode Two
-Game (PC) - Minecraft
-Game (PC) - Genshin Impact grinding session
-Game (PC) - Clone Hero
-Game (PC) - Halo: Combat Evolved
-Game (PC) - Lego Stunt Rally
-Game (PC) - Roller Coaster Tycoon III
-Game (Steam) - AdventureQuest 3D
-Game (Steam) - Alien Swarm: Reactive Drop
-Game (Steam) - Amnesia: The Dark Descent
-Game (Steam) - Arma 3
-Game (Steam) - The Binding of Isaac
-Game (Steam) - Baseball Mogul Diamond
-Game (Steam) - Black Desert Online
-Game (Steam) - Blasphemous
-Game (Steam) - Bloodbath Kavkaz
-Game (Steam) - Borderlands GOTY, GOTY Enhanced, 2, The Pre-Sequel
-Game (Steam) - Botanicula
-Game (Steam) - Cook, Serve, Delicious!
+Game - Uncharted 2, Uncharted 3
+Program - Dance eJay + space sounds, Rave eJay
+Game - Diablo, Diablo II, Diablo III
+Game - Enter the Matrix
+Game - GTA: Vice City, GTA V
+Game - Heroes of Might & Magic III, V
+Game - Kohan: Immortal Sovereigns, Kohan: Ahriman's Gift, Kohan II: Kings of War
+Game - Mall Tycoon
+Game - Might & Magic: Clash of Heroes
+Game - Need for Speed: Hot Pursuit 2
+Game - Painkiller
+Game - RollerCoaster Tycoon Classic, Roller Coaster Tycoon 2 + Time Twister + Wacky Worlds
+Game - Theme Park World
+Game - Trackmania Sunrise
+Game - Worms World Party
+Game - XIII
+Game - World of Warcraft
+Game - World of Warcraft Classic
+Game - Hunting Unlimited 4
+Game - Team Fortress 2
+Game - Portal
+Game - Half-Life 2: Episode Two
+Game - Minecraft
+Game - Genshin Impact grinding session
+Game - Clone Hero
+Game - Halo: Combat Evolved
+Game - Lego Stunt Rally
+Game - Roller Coaster Tycoon III
+Game - AdventureQuest 3D
+Game - Alien Swarm: Reactive Drop
+Game - Amnesia: The Dark Descent
+Game - Arma 3
+Game - The Binding of Isaac
+Game - Baseball Mogul Diamond
+Game - Black Desert Online
+Game - Blasphemous
+Game - Bloodbath Kavkaz
+Game - Borderlands GOTY, GOTY Enhanced, 2, The Pre-Sequel
+Game - Botanicula
+Game - Cook, Serve, Delicious!
 Game - Counter-Strike, Condition Zero, Global Offensive, Counter-Strike Source
-Game (Steam) - Crypt of the NecroDancer
-Game (Steam) - Cube World
-Game (Steam) - The Culling Of The Cows
-Game (Steam) - Darkest Dungeon
-Game (Steam) - Dungeons & Dragons Online
-Game (Steam) - Earth 2150: Lost Souls
-Game (Steam) - East India Company Gold
-Game (Steam) - The Elder Scrolls V: Skyrim
-Game (Steam) - Empires of the Undergrowth
-Game (Steam) - Evoland
-Game (Steam) - Fallout 3 GOTY
-Game (Steam) - Frozen Free Fall: Snowball Fight
-Game (Steam) - Go! Go! Nippon! ~My First Trip to Japan~
-Game (Steam) - Goat Simulator
-Game (Steam) - Golf It!
-Game (Steam) - Grim Legends: The Forsaken Bride
-Game (Steam) - Hades
-Game (Steam) - Half Minute Hero: Super Mega Neo Climax Ultimate Boy
-Game (Steam) - A Hat in Time
-Game (Steam) - Hollow Knight
-Game (Steam) - INK
-Game (Steam) - Insaniquarium! Deluxe
-Game (Steam) - It Lurks Below
-Game (Steam) - Just Cause 2
-Game (Steam) - King's Bounty: Dark Side
-Game (Steam) - Knights and Merchants
-Game (Steam) - Batman: The Videogame, Batman 2: DC Super Heroes, Batman 3: Beyond Gotham, Pirates of the Caribbean The Video Game, Harry Potter: Years 1-4, Harry Potter: Years 5-7, Star Wars: The Complete Saga, Star Wars III: The Clone Wars, Star Wars: The Force Awakens, The Hobbit, The Lord of the Rings
-Game (Steam) - McPixel
-Game (Steam) - Monster Hunter: World
-Game (Steam) - N++
-Game (Steam) - Nightmares from the Deep 3: Davy Jones
-Game (Steam) - Nioh: Complete Edition
-Game (Steam) - No Man's Sky
-Game (Steam) - Osteya
-Game (Steam) - Particula
-Game (Steam) - Pixel Puzzles 2: Anime, Pixel Puzzles 2: Birds, Pixel Puzzles: Japan, Pixel Puzzles Traditional Jigsaws, Pixel Puzzles Ultimate, Pixel Puzzles: UndeadZ
-Game (Steam) - Planet Centauri
-Game (Steam) - Portal Knights
-Game (Steam) - Qubburo 2
-Game (Steam) - RimWorld
-Game (Steam) - Risk of Rain 2
-Game (Steam) - Rogue Legacy
-Game (Steam) - Scribblenauts Unlimited
-Game (Steam) - The Secret Order 5: The Buried Kingdom
-Game (Steam) - Septerra Core
-Game (Steam) - Serious Sam 3: BFE, Serious Sam Fusion 2017, Serious Sam HD: The Second Encounter
-Game (Steam) - SHOGUN: Total War - Collection
-Game (Steam) - The Showdown Effect
-Game (Steam) - Shut Up And Dig
-Game (Steam) - Starbound
-Game (Steam) - Stardew Valley
-Game (Steam) - Sword Art Online: Hollow Realization Deluxe Edition
-Game (Steam) - Tales of Maj'Eyal
-Game (Steam) - Terraria
-Game (Steam) - Thomas Was Alone
-Game (Steam) - Torchlight
-Game (Steam) - Uncanny Valley
-Game (Steam) - Undertale
-Game (Steam) - Unturned
-Game (Steam) - Warframe
-Game (Steam) - Warhammer 40,000: Space Marine, Warhammer: Vermintide 2
-Game (Steam) - Watch_Dogs
-Game (Steam) - The Wolf Among Us
-Game (Steam) - X-Blades
-Game (Steam) - Smoke and Sacrifice
-Game (Steam) - Wolfenstein: Youngblood
-Game (Steam) - Bulb Boy
-Game (Steam) - Splasher
+Game - Crypt of the NecroDancer
+Game - Cube World
+Game - The Culling Of The Cows
+Game - Darkest Dungeon
+Game - Dungeons & Dragons Online
+Game - Earth 2150: Lost Souls
+Game - East India Company Gold
+Game - The Elder Scrolls V: Skyrim
+Game - Empires of the Undergrowth
+Game - Evoland
+Game - Fallout 3 GOTY
+Game - Frozen Free Fall: Snowball Fight
+Game - Go! Go! Nippon! ~My First Trip to Japan~
+Game - Goat Simulator
+Game - Golf It!
+Game - Grim Legends: The Forsaken Bride
+Game - Hades
+Game - Half Minute Hero: Super Mega Neo Climax Ultimate Boy
+Game - A Hat in Time
+Game - Hollow Knight
+Game - INK
+Game - Insaniquarium! Deluxe
+Game - It Lurks Below
+Game - Just Cause 2
+Game - King's Bounty: Dark Side
+Game - Knights and Merchants
+Game - Batman: The Videogame, Batman 2: DC Super Heroes, Batman 3: Beyond Gotham, Pirates of the Caribbean The Video Game, Harry Potter: Years 1-4, Harry Potter: Years 5-7, Star Wars: The Complete Saga, Star Wars III: The Clone Wars, Star Wars: The Force Awakens, The Hobbit, The Lord of the Rings
+Game - McPixel
+Game - Monster Hunter: World
+Game - N++
+Game - Nightmares from the Deep 3: Davy Jones
+Game - Nioh: Complete Edition
+Game - No Man's Sky
+Game - Osteya
+Game - Particula
+Game - Pixel Puzzles 2: Anime, Pixel Puzzles 2: Birds, Pixel Puzzles: Japan, Pixel Puzzles Traditional Jigsaws, Pixel Puzzles Ultimate, Pixel Puzzles: UndeadZ
+Game - Planet Centauri
+Game - Portal Knights
+Game - Qubburo 2
+Game - RimWorld
+Game - Risk of Rain 2
+Game - Rogue Legacy
+Game - Scribblenauts Unlimited
+Game - The Secret Order 5: The Buried Kingdom
+Game - Septerra Core
+Game - Serious Sam 3: BFE, Serious Sam Fusion 2017, Serious Sam HD: The Second Encounter
+Game - SHOGUN: Total War - Collection
+Game - The Showdown Effect
+Game - Shut Up And Dig
+Game - Starbound
+Game - Stardew Valley
+Game - Sword Art Online: Hollow Realization Deluxe Edition
+Game - Tales of Maj'Eyal
+Game - Terraria
+Game - Thomas Was Alone
+Game - Torchlight
+Game - Uncanny Valley
+Game - Undertale
+Game - Unturned
+Game - Warframe
+Game - Warhammer 40,000: Space Marine, Warhammer: Vermintide 2
+Game - Watch_Dogs
+Game - The Wolf Among Us
+Game - X-Blades
+Game - Smoke and Sacrifice
+Game - Wolfenstein: Youngblood
+Game - Bulb Boy
+Game - Splasher
+Game - Rocky Planet
 Game - Buy new refurbished game
-Board game - Plön spiel (german monopoly, based on a town)
-Board game - Puzzle (500), Puzzle (1000), Puzzle in a bucket
-Roll for a Pokémon, find a shiny variant
-TV series (DVD) - LOST season 1-4
-TV series (DVD) - TAKEN season 1
-TV series (DVD) - 24 (The complete series including Live Another Day), 24: Redemption
-TV series (DVD) - Friends season 1-10
-TV series (DVD) - Hannibal season 1-2
-TV Series (DVD) - American Dad season 1
-Anime - Naruto
-Anime - Pokémon
-Anime - Dragon Ball
+Board - Plön spiel (german monopoly, based on a town)
+Board - Puzzle (500), Puzzle (1000), Puzzle in a bucket
+Shiny - Hunt a shiny Pokémon
+Series - LOST season 1-4
+Series - TAKEN season 1
+Series - 24 (The complete series including Live Another Day), 24: Redemption
+Series - Friends season 1-10
+Series - Hannibal season 1-2
+Series - American Dad season 1
+Series - Naruto
+Series - Pokémon
+Series - Dragon Ball
 DVC - Blank
 DVD - DVD special, 12 full programs
 DVD - PC Planet programs + games
-Movie (DVD) - Goldeneye, Die Another Day, Octopussy, Thunderball, License to Kill, Tomorrow Never Dies, The Living Daylights
-Movie (DVD) - Transformers
-Movie (DVD) - The Rock
-Movie (DVD) - Sniper
-Movie (DVD) - And Now for Something Completely Different, Monty Python and the Holy Grail, Life of Brian, The Meaning of Life
-Movie (DVD) - National Treasure 1-2
-Movie (DVD) - Pirates of the Caribbean 1-4
-Movie (DVD) - Street Kings
-Movie (DVD) - Jumper
-Movie (DVD) - The Day the Earth stood still
-Movie (DVD) - The Happening
-Movie (DVD) - Millenium (Stieg Larsson) 1-3
-Movie (DVD) - Angels & Demons
-Movie (DVD) - Bad Boys
-Movie (DVD) - Sahara
-Movie (DVD) - Doom
-Movie (DVD) - Godzilla (1998)
-Movie (DVD) - Jarhead
-Movie (DVD) - Terminator 2: Judgment Day
-Movie (DVD) - Saving Private Ryan
-Movie (DVD) - The Hangover Part II
-Movie (DVD) - King Arthur: Director's Cut
-Movie (DVD) - Serenity
-Movie (DVD) - 21
-Movie (DVD) - The Guardian
-Movie (DVD) - The Liverpool Goalie
-Movie (DVD) - Black Hawk Down
-Movie (DVD) - Silent Scream
-Movie (DVD) - The Road
-Movie (DVD) - War of the Worlds
-Movie (DVD) - Shootfighter
-Movie (DVD) - Hostage
-Movie (DVD) - The Expendables
-Movie (DVD) - Taxi
-Movie (DVD) - Wedding Crashers
-Movie (DVD) - Chaos
-Movie (DVD) - Inception
-Movie (DVD) - Børnehjemmet
-Movie (DVD) - Apocalypto
-Movie (DVD) - Van the Man
-Movie (DVD) - The Bourne Supremacy
-Movie (DVD) - Where the Fuck is Herning? (Hvor fanden er Herning?)
-Movie (DVD) - Garfield the Movie
-Movie (DVD) - DAMP (Simon Talbot)
-Movie (DVD) - CLICK
-Movie (DVD) - Keeping Mum
-Movie (DVD) - The Last Exorcism
-Movie (DVD) - The Constant Gardener
-Movie (DVD) - Inspector Morse: The Dead of Jericho
-Movie (DVD) - Midsomer Murders: The Sword of Guillaume
-Movie (DVD) - Beverly Hills Cop
-Movie (DVD) - 50 First Dates
-Movie (DVD) - Running Scared
-Movie (DVD) - Live 09 Frank Hvam
-Movie (DVD) - Pan's Labyrinth
-Movie (DVD) - Die Hard 4.0
-Movie (DVD) - 28 Days Later + 28 Weeks Later
-Movie (DVD) - 127 Hours
-Movie (DVD) - All is Lost
-Movie (DVD) - American Sniper
-Movie (DVD) - Blade Runner
-Movie (DVD) - Dawn of the Planet of the Apes
-Movie (DVD) - Django Unchained
-Movie (DVD) - Dodgeball: A True Underdog Story
-Movie (DVD) - Donnie Darko Director's Cut
-Movie (DVD) - Dredd
-Movie (DVD) - Due Date
-Movie (DVD) - Eagle Eye
-Movie (DVD) - Edge of Tomorrow
-Movie (DVD) - Epic
-Movie (DVD) - Escape Plan
-Movie (DVD) - Europa Report
-Movie (DVD) - Event Horizon
-Movie (DVD) - Exam
-Movie (DVD) - Exodus Gods and Kings
-Movie (DVD) - Fanboys
-Movie (DVD) - Forrest Gump
-Movie (DVD) - Mermaids: The Body Found
-Movie (DVD) - +1
-Movie (DVD) - 22 Bullets
-Movie (DVD) - Big Hero 6
-Movie (DVD) - Birdman
-Movie (DVD) - Guardians of the Galaxy
-Movie (DVD) - Interstellar
-Movie (DVD) - The Den
-Movie (DVD) - The Imitation Game
-Movie (DVD) - The Interview
-Movie (DVD) - The Shawshank Redemption
-Movie (DVD) - Cloudy with a Chance of Meatballs 1-2
-Movie (DVD) - How to train your Dragon 2
-Movie (DVD) - Metallica documentary
-Movie (DVD) - Monster House
-Movie (DVD) - Benchwarmers
-Movie (DVD) - Taken 1-3
-Movie (DVD) - The Godfather 1-2
-Movie (DVD) - Toy Story 1-3
-Movie (DVD) - Frequency
-Movie (DVD) - Gravity
-Movie (DVD) - I Origins
-Movie (DVD) - Independence Day
-Movie (DVD) - John Carter
-Movie (DVD) - Man on a Ledge
-Movie (DVD) - Monster High Haunted
-Movie (DVD) - Nailbiters
-Movie (DVD) - Napoleon Dynamite
-Movie (DVD) - Need for Speed
-Movie (DVD) - Oblivion
-Movie (DVD) - Oculus
-Movie (DVD) - One Eight Seven
-Movie (DVD) - Pandorum
-Movie (DVD) - Project X
-Movie (DVD) - Prometheus
-Movie (DVD) - Run Fatboy Run
-Movie (DVD) - Serenity
-Movie (DVD) - Seventh Son
-Movie (DVD) - Shoot'em Up
-Movie (DVD) - Stardust
-Movie (DVD) - Stargate (extended)
-Movie (DVD) - Sunshine
-Movie (DVD) - Super 8
-Movie (DVD) - Sword of Vengeance
-Movie (DVD) - The Dead Zone
-Movie (DVD) - The Fifth Element (remastered)
-Movie (DVD) - The Fluffy Movie Unity Through Laughter
-Movie (DVD) - The Forbidden Kingdom
-Movie (DVD) - The Gambler
-Movie (DVD) - The Lego Movie
-Movie (DVD) - The Man from the Earth
-Movie (DVD) - The Matrix 1-3
-Movie (DVD) - The Maze Runner
-Movie (DVD) - The Mist
-Movie (DVD) - The Ouija Experiment
-Movie (DVD) - The Perfect Storm
-Movie (DVD) - The Quiet Earth
-Movie (DVD) - The Salvation
-Movie (DVD) - The Sixth Sense
-Movie (DVD) - The Social Network
-Movie (DVD) - The Taking of Deborah Logan
-Movie (DVD) - The Thing
-Movie (DVD) - The Wolf of Wall Street
-Movie (DVD) - The World's End
-Movie (DVD) - Tom and Jerry in Shiver Me Whiskers
-Movie (DVD) - Transcendence
-Movie (DVD) - Tremors
-Movie (DVD) - Underworld
-Movie (DVD) - UP
-Movie (DVD) - Watchmen
-Movie (DVD) - Wild Card
+Movie - Goldeneye, Die Another Day, Octopussy, Thunderball, License to Kill, Tomorrow Never Dies, The Living Daylights
+Movie - Transformers
+Movie - The Rock
+Movie - Sniper
+Movie - And Now for Something Completely Different, Monty Python and the Holy Grail, Life of Brian, The Meaning of Life
+Movie - National Treasure 1-2
+Movie - Pirates of the Caribbean 1-4
+Movie - Street Kings
+Movie - Jumper
+Movie - The Day the Earth stood still
+Movie - The Happening
+Movie - Millenium (Stieg Larsson) 1-3
+Movie - Angels & Demons
+Movie - Bad Boys
+Movie - Sahara
+Movie - Doom
+Movie - Godzilla (1998)
+Movie - Jarhead
+Movie - Terminator 2: Judgment Day
+Movie - Saving Private Ryan
+Movie - The Hangover Part II
+Movie - King Arthur: Director's Cut
+Movie - Serenity
+Movie - 21
+Movie - The Guardian
+Movie - The Liverpool Goalie
+Movie - Black Hawk Down
+Movie - Silent Scream
+Movie - The Road
+Movie - War of the Worlds
+Movie - Shootfighter
+Movie - Hostage
+Movie - The Expendables
+Movie - Taxi
+Movie - Wedding Crashers
+Movie - Chaos
+Movie - Inception
+Movie - Børnehjemmet
+Movie - Apocalypto
+Movie - Van the Man
+Movie - The Bourne Supremacy
+Movie - Where the Fuck is Herning? (Hvor fanden er Herning?)
+Movie - Garfield the Movie
+Movie - DAMP (Simon Talbot)
+Movie - CLICK
+Movie - Keeping Mum
+Movie - The Last Exorcism
+Movie - The Constant Gardener
+Movie - Inspector Morse: The Dead of Jericho
+Movie - Midsomer Murders: The Sword of Guillaume
+Movie - Beverly Hills Cop
+Movie - 50 First Dates
+Movie - Running Scared
+Movie - Live 09 Frank Hvam
+Movie - Pan's Labyrinth
+Movie - Die Hard 4.0
+Movie - 28 Days Later + 28 Weeks Later
+Movie - 127 Hours
+Movie - All is Lost
+Movie - American Sniper
+Movie - Blade Runner
+Movie - Dawn of the Planet of the Apes
+Movie - Django Unchained
+Movie - Dodgeball: A True Underdog Story
+Movie - Donnie Darko Director's Cut
+Movie - Dredd
+Movie - Due Date
+Movie - Eagle Eye
+Movie - Edge of Tomorrow
+Movie - Epic
+Movie - Escape Plan
+Movie - Europa Report
+Movie - Event Horizon
+Movie - Exam
+Movie - Exodus Gods and Kings
+Movie - Fanboys
+Movie - Forrest Gump
+Movie - Mermaids: The Body Found
+Movie - +1
+Movie - 22 Bullets
+Movie - Big Hero 6
+Movie - Birdman
+Movie - Guardians of the Galaxy
+Movie - Interstellar
+Movie - The Den
+Movie - The Imitation Game
+Movie - The Interview
+Movie - The Shawshank Redemption
+Movie - Cloudy with a Chance of Meatballs 1-2
+Movie - How to train your Dragon 2
+Movie - Metallica documentary
+Movie - Monster House
+Movie - Benchwarmers
+Movie - Taken 1-3
+Movie - The Godfather 1-2
+Movie - Toy Story 1-3
+Movie - Frequency
+Movie - Gravity
+Movie - I Origins
+Movie - Independence Day
+Movie - John Carter
+Movie - Man on a Ledge
+Movie - Monster High Haunted
+Movie - Nailbiters
+Movie - Napoleon Dynamite
+Movie - Need for Speed
+Movie - Oblivion
+Movie - Oculus
+Movie - One Eight Seven
+Movie - Pandorum
+Movie - Project X
+Movie - Prometheus
+Movie - Run Fatboy Run
+Movie - Serenity
+Movie - Seventh Son
+Movie - Shoot'em Up
+Movie - Stardust
+Movie - Stargate (extended)
+Movie - Sunshine
+Movie - Super 8
+Movie - Sword of Vengeance
+Movie - The Dead Zone
+Movie - The Fifth Element (remastered)
+Movie - The Fluffy Movie Unity Through Laughter
+Movie - The Forbidden Kingdom
+Movie - The Gambler
+Movie - The Lego Movie
+Movie - The Man from the Earth
+Movie - The Matrix 1-3
+Movie - The Maze Runner
+Movie - The Mist
+Movie - The Ouija Experiment
+Movie - The Perfect Storm
+Movie - The Quiet Earth
+Movie - The Salvation
+Movie - The Sixth Sense
+Movie - The Social Network
+Movie - The Taking of Deborah Logan
+Movie - The Thing
+Movie - The Wolf of Wall Street
+Movie - The World's End
+Movie - Tom and Jerry in Shiver Me Whiskers
+Movie - Transcendence
+Movie - Tremors
+Movie - Underworld
+Movie - UP
+Movie - Watchmen
+Movie - Wild Card
 Movie - Naruto - Ninjaclash in the Land of Snow
-Movie (VHS) - Pokémon the First Movie, Pokémon the Movie 2000, Various recordings 1-3
-Audio (CD) - Absolute Hits 2012
-Audio (CD) - Absolute Music 31, 38
-Audio (CD) - Bass Power 5
-Audio (CD) - Dance Chart 32
-Audio (CD) - Super Hits 1 (various artists)
-Audio (CD) - Mixed music (various artists)
-Audio (CD) - Dr. Bombay - Rice & Curry
-Audio (CD) - Erlend Bratland - True Colors
-Audio (CD) - Eurovision Song Contest 2005
-Audio (CD) - Evanescence - The Open Door
-Audio (CD) - Frédéric Chopin
-Audio (CD) - Funker Vogt - Aviator
-Audio (CD) - Gamlehov - Roill Over
-Audio (CD) - Gry Luka & Peter Schmeichel - We Can Do It
-Audio (CD) - Hampenberg - Duck Off
-Audio (CD) - H.C. Andersen - Vintereventyr
-Audio (CD) - Il Divo - The Christmas Collection
-Audio (CD) - Linkin Park - Minutes to Midnight
-Audio (CD) - Lukas Graham - ?
-Audio (CD) - McMusic - Hit & Dance 3
-Audio (CD) - Michael Bolton - Georgia on my Mind
-Audio (CD) - Myself - House of the Rising Sun
-Audio (CD) - Nintendo - Love, Peace & Happiness
-Audio (CD) - NOW 14
-Audio (CD) - Digital Sound Theater - Nærkontakt
-Audio (CD) - Pokémon - Danish soundtrack from the anime, The First Movie
-Audio (CD) - Safri Duo - Episode II
-Audio (CD) - Schnappi und seine Freunde
-Audio (CD) - Shuko & DJ concept - Echo Unltd. Vol. 1
-Audio (CD) - Smurfehits 4
-Audio (CD) - Techno Dance Valencia
-Audio (CD) - Total Dance 7
-Audio (CD) - Young Stars 6
-Audio (CD) - Enrique Iglesias - Enrique
-Audio (CD) - Johnny Bazookatone
-Audio (CD) - Dansk melodi grand prix 2004
-Audio (CD) - Britney Spears - In the Zone
-Audio (CD) - Dansk melodi grand prix junior 2003 or 2005
-Audio (CD) - Black Eyed Peas - Elephunk
-Audio (CD) - Metallica - Death Magnetic
-Audio (CD) - Adam Ant
-Audio (CD) - Rosenborg Radio
-Audio (CD) - Mixed music 3
-Audio (CD) - Mixed music 2
-Audio (CD) - Hel- og halvjohansen
+Movie - Pokémon the First Movie, Pokémon the Movie 2000, Various recordings 1-3
+Audio - Absolute Hits 2012
+Audio - Absolute Music 31, 38
+Audio - Bass Power 5
+Audio - Dance Chart 32
+Audio - Super Hits 1 (various artists)
+Audio - Mixed music (various artists)
+Audio - Dr. Bombay - Rice & Curry
+Audio - Erlend Bratland - True Colors
+Audio - Eurovision Song Contest 2005
+Audio - Evanescence - The Open Door
+Audio - Frédéric Chopin
+Audio - Funker Vogt - Aviator
+Audio - Gamlehov - Roill Over
+Audio - Gry Luka & Peter Schmeichel - We Can Do It
+Audio - Hampenberg - Duck Off
+Audio - H.C. Andersen - Vintereventyr
+Audio - Il Divo - The Christmas Collection
+Audio - Linkin Park - Minutes to Midnight
+Audio - Lukas Graham - ?
+Audio - McMusic - Hit & Dance 3
+Audio - Michael Bolton - Georgia on my Mind
+Audio - Myself - House of the Rising Sun
+Audio - Nintendo - Love, Peace & Happiness
+Audio - NOW 14
+Audio - Digital Sound Theater - Nærkontakt
+Audio - Pokémon - Danish soundtrack from the anime, The First Movie
+Audio - Safri Duo - Episode II
+Audio - Schnappi und seine Freunde
+Audio - Shuko & DJ concept - Echo Unltd. Vol. 1
+Audio - Smurfehits 4
+Audio - Techno Dance Valencia
+Audio - Total Dance 7
+Audio - Young Stars 6
+Audio - Enrique Iglesias - Enrique
+Audio - Johnny Bazookatone
+Audio - Dansk melodi grand prix 2004
+Audio - Britney Spears - In the Zone
+Audio - Dansk melodi grand prix junior 2003 or 2005
+Audio - Black Eyed Peas - Elephunk
+Audio - Metallica - Death Magnetic
+Audio - Adam Ant
+Audio - Rosenborg Radio
+Audio - Mixed music 3
+Audio - Mixed music 2
+Audio - Hel- og halvjohansen
 CD - Backup 1
 CD - USB Casette Player Driver Software
 CD - Recovery HP 1+2
@@ -410,34 +411,36 @@ CD - Blank CD after German course
 CD - TI-89 Titanium and Voyage^tm 200
 CD - Blank CD after RCT3
 CD - Blank CD after blank CD after RCT3
-Cassette tape - Lady and the Tramp
-Cassette tape - Bambi: The Secret of the butterflies
-Cassette tape - Julie Walsøe - X-mas songs
-Cassette tape - Kids traffic club 6Â½
-Cassette tape - Disney - Goofy, Aladdin, Lion King, Cinderella, Pocahontas
-Cassette tape - Blekkulf
-Cassette tape - Alf as a detective
-Cassette tape - Henning Vilén - Sailormelodies
-Cassette tape - Åh Abe!
-Cassette tape - Troldepus in zoo
-Cassette tape - My cassette tape
-Cassette tape - My fairy tale cassette tape
-Cassette tape - Mixtape mother
-Cassette tape - Homemade speaking 1-16
+Cassette - Lady and the Tramp
+Cassette - Bambi: The Secret of the butterflies
+Cassette - Julie Walsøe - X-mas songs
+Cassette - Kids traffic club 6Â½
+Cassette - Disney - Goofy, Aladdin, Lion King, Cinderella, Pocahontas
+Cassette - Blekkulf
+Cassette - Alf as a detective
+Cassette - Henning Vilén - Sailormelodies
+Cassette - Åh Abe!
+Cassette - Troldepus in zoo
+Cassette - My cassette tape
+Cassette - My fairy tale cassette tape
+Cassette - Mixtape mother
+Cassette - Homemade speaking 1-16
 Laptop - #1 Go through rest on C, format and install W10 over W7
 Laptop - #2 Fix harddrive issues
 Laptop - #3 Save anything interesting, then format and install W10 over linux, maybe, maybe not
 Desktop - Clean
-Memory cards - Possibly pictures + more games on them for nintendo DS's
-Take care of box with memories, pictures, letters etc.
+Memorycards - Possibly pictures + more games on them for nintendo DS's
+Misc - Take care of box with memories, pictures, letters etc.
 Box - Pokémon cards (fuck yeah)
 Box - Yu-Gi-Oh! cards (hell yeah)
 Box - Sort electronic stuff
 LEGO - Sith Infiltrator (7151), Life on Mars (7317), Arachnoid Star Base (6977), Set with sharks with an underwater something, Set with a house of some sorts with a blue door amongst others
-Fix Jar Jar Binks doll
-Can of Pringles - But with coins, old ones
-Learn/improve Japanese, Python, math
-Improve piano
+Misc - Fix Jar Jar Binks doll
+Misc - Can of Pringles, but with coins, old ones
+Learn - Japanese
+Learn - Python
+Learn - Math
+Learn - Piano
 Python - Create a program that takes all unique words in a given song lyric and cross-check it against transcript of a speech to see if they can sing it, Euler's Project, Improve this program, Pixelating a picture
-Fishing trip :)
-Go on a hike somewhere
+Bonus - Fishing trip :)
+Bonus - Go on a hike somewhere
