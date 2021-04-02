@@ -204,7 +204,7 @@ Movie - The Rock
 Movie - Sniper
 Movie - And Now for Something Completely Different, Monty Python and the Holy Grail, Life of Brian, The Meaning of Life
 Movie - National Treasure 1-2
-Movie - Pirates of the Caribbean 1-4
+Movie - Pirates of the Caribbean 1-3
 Movie - Street Kings
 Movie - Jumper
 Movie - The Day the Earth stood still
@@ -249,105 +249,15 @@ Movie - The Constant Gardener
 Movie - Inspector Morse: The Dead of Jericho
 Movie - Midsomer Murders: The Sword of Guillaume
 Movie - Beverly Hills Cop
-Movie - 50 First Dates
 Movie - Running Scared
 Movie - Live 09 Frank Hvam
 Movie - Pan's Labyrinth
 Movie - Die Hard 4.0
-Movie - 28 Days Later + 28 Weeks Later
-Movie - 127 Hours
-Movie - All is Lost
-Movie - American Sniper
-Movie - Blade Runner
-Movie - Dawn of the Planet of the Apes
-Movie - Django Unchained
-Movie - Dodgeball: A True Underdog Story
-Movie - Donnie Darko Director's Cut
-Movie - Dredd
-Movie - Due Date
-Movie - Eagle Eye
-Movie - Edge of Tomorrow
-Movie - Epic
-Movie - Escape Plan
-Movie - Europa Report
-Movie - Event Horizon
-Movie - Exam
-Movie - Exodus Gods and Kings
-Movie - Fanboys
-Movie - Forrest Gump
-Movie - Mermaids: The Body Found
-Movie - +1
-Movie - 22 Bullets
-Movie - Big Hero 6
-Movie - Birdman
-Movie - Guardians of the Galaxy
-Movie - Interstellar
-Movie - The Den
-Movie - The Imitation Game
-Movie - The Interview
-Movie - The Shawshank Redemption
-Movie - Cloudy with a Chance of Meatballs 1-2
-Movie - How to train your Dragon 2
 Movie - Metallica documentary
 Movie - Monster House
 Movie - Benchwarmers
-Movie - Taken 1-3
-Movie - The Godfather 1-2
-Movie - Toy Story 1-3
-Movie - Frequency
-Movie - Gravity
-Movie - I Origins
-Movie - Independence Day
-Movie - John Carter
-Movie - Man on a Ledge
-Movie - Monster High Haunted
-Movie - Nailbiters
-Movie - Napoleon Dynamite
-Movie - Need for Speed
-Movie - Oblivion
-Movie - Oculus
-Movie - One Eight Seven
-Movie - Pandorum
-Movie - Project X
-Movie - Prometheus
-Movie - Run Fatboy Run
 Movie - Serenity
-Movie - Seventh Son
-Movie - Shoot'em Up
-Movie - Stardust
-Movie - Stargate (extended)
-Movie - Sunshine
-Movie - Super 8
-Movie - Sword of Vengeance
-Movie - The Dead Zone
-Movie - The Fifth Element (remastered)
-Movie - The Fluffy Movie Unity Through Laughter
-Movie - The Forbidden Kingdom
-Movie - The Gambler
-Movie - The Lego Movie
-Movie - The Man from the Earth
-Movie - The Matrix 1-3
-Movie - The Maze Runner
-Movie - The Mist
-Movie - The Ouija Experiment
-Movie - The Perfect Storm
-Movie - The Quiet Earth
-Movie - The Salvation
-Movie - The Sixth Sense
-Movie - The Social Network
-Movie - The Taking of Deborah Logan
-Movie - The Thing
-Movie - The Wolf of Wall Street
-Movie - The World's End
-Movie - Tom and Jerry in Shiver Me Whiskers
-Movie - Transcendence
-Movie - Tremors
-Movie - Underworld
-Movie - UP
-Movie - Watchmen
-Movie - Wild Card
-Movie - Naruto - Ninjaclash in the Land of Snow
-Movie - Pokémon the First Movie, Pokémon the Movie 2000, Various recordings 1-3
+Movie - Pokémon the First Movie, Pokémon the Movie 2000, Various recordings 1-3 (VHS)
 Audio - Absolute Hits 2012
 Audio - Absolute Music 31, 38
 Audio - Bass Power 5
