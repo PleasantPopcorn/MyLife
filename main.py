@@ -177,7 +177,7 @@ def add_element(element, Uti, Scrbrd):
             print("\nCurrent things have 2 points each:\n\n")
 
             for item in Scrbrd.scoreboard_stage_two:
-                print(item, end="\n")
+                print(item, end="")
 
         sleep(0.5)
 

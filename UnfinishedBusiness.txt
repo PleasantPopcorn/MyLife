@@ -104,7 +104,6 @@ Game - AdventureQuest 3D
 Game - Alien Swarm: Reactive Drop
 Game - Amnesia: The Dark Descent
 Game - Arma 3
-Game - The Binding of Isaac
 Game - Baseball Mogul Diamond
 Game - Black Desert Online
 Game - Blasphemous
@@ -147,7 +146,6 @@ Game - Nightmares from the Deep 3: Davy Jones
 Game - Nioh: Complete Edition
 Game - No Man's Sky
 Game - Osteya
-Game - Particula
 Game - Pixel Puzzles 2: Anime, Pixel Puzzles 2: Birds, Pixel Puzzles: Japan, Pixel Puzzles Traditional Jigsaws, Pixel Puzzles Ultimate, Pixel Puzzles: UndeadZ
 Game - Planet Centauri
 Game - Portal Knights
