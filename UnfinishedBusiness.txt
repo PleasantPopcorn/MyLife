@@ -101,7 +101,6 @@ Game - Lego Stunt Rally
 Game - Roller Coaster Tycoon III
 Game - AdventureQuest 3D
 Game - Alien Swarm: Reactive Drop
-Game - Amnesia: The Dark Descent
 Game - Arma 3
 Game - Baseball Mogul Diamond
 Game - Black Desert Online
@@ -122,7 +121,6 @@ Game - Empires of the Undergrowth
 Game - Evoland
 Game - Fallout 3 GOTY
 Game - Frozen Free Fall: Snowball Fight
-Game - Go! Go! Nippon! ~My First Trip to Japan~
 Game - Goat Simulator
 Game - Golf It!
 Game - Grim Legends: The Forsaken Bride
@@ -130,8 +128,6 @@ Game - Hades
 Game - Half Minute Hero: Super Mega Neo Climax Ultimate Boy
 Game - A Hat in Time
 Game - Hollow Knight
-Game - INK
-Game - Insaniquarium! Deluxe
 Game - It Lurks Below
 Game - Just Cause 2
 Game - King's Bounty: Dark Side
@@ -293,14 +289,11 @@ Audio - Rosenborg Radio
 Audio - Mixed music 3
 Audio - Mixed music 2
 Audio - Hel- og halvjohansen
-CD - Backup 1
 CD - USB Casette Player Driver Software
 CD - Recovery HP 1+2
 CD - Blank CD after DVD special
 CD - Sibelius
 CD - Small blank CD x2 after Rosenborg Radio
-CD - Backup 2
-CD - Backup 3
 CD - My pictures
 CD - My pictures from 11.07.04
 CD - Blank CD after McMusic 19
