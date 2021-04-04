@@ -80,7 +80,7 @@ Game - GTA: Vice City, GTA V
 Game - Kohan: Immortal Sovereigns, Kohan: Ahriman's Gift, Kohan II: Kings of War
 Game - Need for Speed: Hot Pursuit 2
 Game - Painkiller
-Game - Roller Coaster Tycoon Classic, Roller Coaster Tycoon II + Time Twister + Wacky Worlds, Roller Coaster Tycoon III
+Game - Roller Coaster Tycoon Classic, Roller Coaster Tycoon II + Time Twister + Wacky Worlds
 Game - Theme Park World
 Game - Trackmania Sunrise
 Game - Worms World Party
@@ -175,13 +175,10 @@ Series - TAKEN season 1
 Series - 24 (The complete series including Live Another Day), 24: Redemption
 Series - Friends season 1-10
 Series - Hannibal season 1-2
-Series - American Dad season 1
 Series - Naruto
 Series - Pokémon
 Series - Dragon Ball
 DVC - Blank
-DVD - DVD special, 12 full programs
-DVD - PC Planet programs + games
 Movie - Goldeneye, Die Another Day, Octopussy, Thunderball, License to Kill, Tomorrow Never Dies, The Living Daylights
 Movie - Transformers
 Movie - The Rock
@@ -234,9 +231,6 @@ Movie - Running Scared
 Movie - Live 09 Frank Hvam
 Movie - Pan's Labyrinth
 Movie - Die Hard 4.0
-Movie - Metallica documentary
-Movie - Monster House
-Movie - Benchwarmers
 Movie - Serenity
 Movie - Pokémon the First Movie, Pokémon the Movie 2000, Various recordings 1-3 (VHS)
 Audio - Absolute Hits 2012
@@ -274,31 +268,12 @@ Audio - Total Dance 7
 Audio - Young Stars 6
 Audio - Enrique Iglesias - Enrique
 Audio - Johnny Bazookatone
-Audio - Dansk melodi grand prix 2004
-Audio - Britney Spears - In the Zone
-Audio - Dansk melodi grand prix junior 2003 or 2005
-Audio - Black Eyed Peas - Elephunk
-Audio - Metallica - Death Magnetic
-Audio - Adam Ant
 Audio - Rosenborg Radio
 Audio - Mixed music 3
 Audio - Mixed music 2
 Audio - Hel- og halvjohansen
-CD - USB Casette Player Driver Software
-CD - Recovery HP 1+2
-CD - Blank CD after DVD special
-CD - Sibelius
-CD - Small blank CD x2 after Rosenborg Radio
-CD - My pictures
-CD - My pictures from 11.07.04
-CD - Blank CD after McMusic 19
-CD - "[my name] 06/10-04"??
-CD - Blank CD after Rave eJay
-CD - German course
-CD - Blank CD after German course
+Audio - Homemade from a minicourse at school
 CD - TI-89 Titanium and Voyage^tm 200
-CD - Blank CD after RCT3
-CD - Blank CD after blank CD after RCT3
 Cassette - Lady and the Tramp
 Cassette - Bambi: The Secret of the butterflies
 Cassette - Julie Walsøe - X-mas songs
