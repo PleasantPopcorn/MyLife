@@ -220,7 +220,6 @@ Movie - 21
 Movie - The Guardian
 Movie - The Liverpool Goalie
 Movie - Black Hawk Down
-Movie - Silent Scream
 Movie - The Road
 Movie - War of the Worlds
 Movie - Shootfighter
@@ -230,7 +229,6 @@ Movie - Taxi
 Movie - Wedding Crashers
 Movie - Chaos
 Movie - Inception
-Movie - Børnehjemmet
 Movie - Apocalypto
 Movie - Van the Man
 Movie - The Bourne Supremacy
@@ -239,7 +237,6 @@ Movie - Garfield the Movie
 Movie - DAMP (Simon Talbot)
 Movie - CLICK
 Movie - Keeping Mum
-Movie - The Last Exorcism
 Movie - The Constant Gardener
 Movie - Inspector Morse: The Dead of Jericho
 Movie - Midsomer Murders: The Sword of Guillaume
