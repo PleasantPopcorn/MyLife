@@ -79,7 +79,6 @@ Game - Enter the Matrix
 Game - GTA: Vice City, GTA V
 Game - Heroes of Might & Magic III, V
 Game - Kohan: Immortal Sovereigns, Kohan: Ahriman's Gift, Kohan II: Kings of War
-Game - Mall Tycoon
 Game - Might & Magic: Clash of Heroes
 Game - Need for Speed: Hot Pursuit 2
 Game - Painkiller
@@ -146,7 +145,6 @@ Game - Nightmares from the Deep 3: Davy Jones
 Game - Nioh: Complete Edition
 Game - No Man's Sky
 Game - Osteya
-Game - Pixel Puzzles 2: Anime, Pixel Puzzles 2: Birds, Pixel Puzzles: Japan, Pixel Puzzles Traditional Jigsaws, Pixel Puzzles Ultimate, Pixel Puzzles: UndeadZ
 Game - Planet Centauri
 Game - Portal Knights
 Game - Qubburo 2
@@ -167,7 +165,6 @@ Game - Tales of Maj'Eyal
 Game - Terraria
 Game - Thomas Was Alone
 Game - Torchlight
-Game - Uncanny Valley
 Game - Undertale
 Game - Unturned
 Game - Warframe
