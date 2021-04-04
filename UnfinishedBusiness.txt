@@ -82,7 +82,7 @@ Game - Kohan: Immortal Sovereigns, Kohan: Ahriman's Gift, Kohan II: Kings of War
 Game - Might & Magic: Clash of Heroes
 Game - Need for Speed: Hot Pursuit 2
 Game - Painkiller
-Game - RollerCoaster Tycoon Classic, Roller Coaster Tycoon 2 + Time Twister + Wacky Worlds
+Game - Roller Coaster Tycoon Classic, Roller Coaster Tycoon II + Time Twister + Wacky Worlds, Roller Coaster Tycoon III
 Game - Theme Park World
 Game - Trackmania Sunrise
 Game - Worms World Party
@@ -98,7 +98,6 @@ Game - Genshin Impact grinding session
 Game - Clone Hero
 Game - Halo: Combat Evolved
 Game - Lego Stunt Rally
-Game - Roller Coaster Tycoon III
 Game - AdventureQuest 3D
 Game - Alien Swarm: Reactive Drop
 Game - Arma 3
