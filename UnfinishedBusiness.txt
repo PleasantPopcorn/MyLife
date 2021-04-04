@@ -79,7 +79,6 @@ Game - Enter the Matrix
 Game - GTA: Vice City, GTA V
 Game - Kohan: Immortal Sovereigns, Kohan: Ahriman's Gift, Kohan II: Kings of War
 Game - Need for Speed: Hot Pursuit 2
-Game - Painkiller
 Game - Roller Coaster Tycoon Classic, Roller Coaster Tycoon II + Time Twister + Wacky Worlds
 Game - Theme Park World
 Game - Trackmania Sunrise
@@ -200,7 +199,6 @@ Movie - Jarhead
 Movie - Terminator 2: Judgment Day
 Movie - Saving Private Ryan
 Movie - The Hangover Part II
-Movie - King Arthur: Director's Cut
 Movie - Serenity
 Movie - 21
 Movie - The Guardian
