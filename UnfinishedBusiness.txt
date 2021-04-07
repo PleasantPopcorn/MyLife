@@ -97,7 +97,6 @@ Game - AdventureQuest 3D
 Game - Alien Swarm: Reactive Drop
 Game - Arma 3
 Game - Baseball Mogul Diamond
-Game - Black Desert Online
 Game - Blasphemous
 Game - Bloodbath Kavkaz
 Game - Borderlands GOTY, GOTY Enhanced, 2, The Pre-Sequel
