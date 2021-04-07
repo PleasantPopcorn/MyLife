@@ -60,17 +60,13 @@ Game - Super Mario Land, Super Mario Advance
 Game - Assassin's Creed (all of 'em)
 Game - Call of Duty (all of 'em)
 Game - Wario Land 3
-Game - Harry Potter and the Philosopher's Stone
 Game - Dragon Ball Z: The Legendary Super Warriors
 Game - The Legend of Zelda: Oracle of Ages, Breath of the Wild
 Game - Lord of the Rings, Lord of the Rings: Fellowship of the Ring, Lord of the Rings: Battle for Middle-Earth II, Lord of the Rings: Warrior of Middle-Earth
 Game - Yu-Gi-Oh! The Forbidden Cards, Duel Links, Legacy of the Duelist
 Game - Megaman Battle Network 2 (star 2-5, hardmode)
 Game - Crash Bandicoot N.-SANE Trilogy
-Game - Guitar Hero III: Legends of Rock
 Game - Wii Sports
-Game - Guitar Hero - Warriors of Rock
-Game - Guitar Hero Live
 Game - Demon's Souls, Dark Souls: Remastered, Dark Souls II: Scholar of the First Sin, Dark Souls III
 Game - Uncharted 2, Uncharted 3
 Program - Dance eJay + space sounds, Rave eJay
@@ -85,12 +81,10 @@ Game - Trackmania Sunrise
 Game - Worms World Party
 Game - XIII
 Game - World of Warcraft Classic
-Game - Hunting Unlimited 4
-Game - Team Fortress 2
 Game - Portal
 Game - All core-series Half-Life games (not Half-Life)
 Game - Minecraft
-Game - Clone Hero
+Game - Clone Hero; Guitar Hero III: Legends of Rock, Guitar Hero: Warriors of Rock, Guitar Hero Live
 Game - Halo: Combat Evolved
 Game - Lego Stunt Rally
 Game - AdventureQuest 3D
@@ -123,10 +117,9 @@ Game - It Lurks Below
 Game - Just Cause 2
 Game - King's Bounty: Dark Side
 Game - Knights and Merchants
-Game - Batman: The Videogame, Batman 2: DC Super Heroes, Batman 3: Beyond Gotham, Pirates of the Caribbean The Video Game, Harry Potter: Years 1-4, Harry Potter: Years 5-7, Star Wars: The Complete Saga, Star Wars III: The Clone Wars, Star Wars: The Force Awakens, The Hobbit, The Lord of the Rings
+Game - LEGO games
 Game - McPixel
 Game - Monster Hunter: World
-Game - N++
 Game - Nightmares from the Deep 3: Davy Jones
 Game - Nioh: Complete Edition
 Game - No Man's Sky
