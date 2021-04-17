@@ -87,14 +87,13 @@ Game - Minecraft
 Game - Clone Hero; Guitar Hero III: Legends of Rock, Guitar Hero: Warriors of Rock, Guitar Hero Live
 Game - Halo: Combat Evolved
 Game - Lego Stunt Rally
-Game - AdventureQuest 3D
 Game - Alien Swarm: Reactive Drop
 Game - Arma 3
-Game - Baseball Mogul Diamond
 Game - Blasphemous
 Game - Bloodbath Kavkaz
 Game - Borderlands GOTY, GOTY Enhanced, 2, The Pre-Sequel
 Game - Botanicula
+Game - Call of Duty Black Ops: Cold War
 Game - Cook, Serve, Delicious!
 Game - Counter-Strike, Condition Zero, Global Offensive, Counter-Strike Source
 Game - Crypt of the NecroDancer
@@ -107,14 +106,12 @@ Game - The Elder Scrolls V: Skyrim
 Game - Empires of the Undergrowth
 Game - Evoland
 Game - Fallout 3 GOTY
-Game - Goat Simulator
 Game - Grim Legends: The Forsaken Bride
 Game - Hades
 Game - Half Minute Hero: Super Mega Neo Climax Ultimate Boy
 Game - A Hat in Time
 Game - Hollow Knight
 Game - It Lurks Below
-Game - Just Cause 2
 Game - King's Bounty: Dark Side
 Game - Knights and Merchants
 Game - LEGO games
@@ -157,7 +154,6 @@ Game - Splasher
 Game - Rocky Planet
 Game - Buy new refurbished game
 Board - Plön spiel (german monopoly, based on a town)
-Board - Puzzle (500), Puzzle (1000), Puzzle in a bucket
 Shiny - Hunt a shiny Pokémon
 Series - LOST season 1-4
 Series - TAKEN season 1
@@ -176,7 +172,6 @@ Movie - And Now for Something Completely Different, Monty Python and the Holy Gr
 Movie - National Treasure 1-2
 Movie - Pirates of the Caribbean 1-3
 Movie - Street Kings
-Movie - Jumper
 Movie - The Day the Earth stood still
 Movie - The Happening
 Movie - Millenium (Stieg Larsson) 1-3
