@@ -58,7 +58,7 @@ Misc - Take care of books that was removed
 Game - Pokémon Blue, Red, Yellow, Gold, Crystal, Sapphire, Ruby, Emerald, Leafgreen, Ranger, Y, Ultra Moon, Let's Go Pikachu, Let's Go Eevee, Shield
 Game - Super Mario Land, Super Mario Advance
 Game - Assassin's Creed (all of 'em)
-Game - Call of Duty (all of 'em)
+Game - Call of Duty (all of 'em) - Not Call of Duty
 Game - Wario Land 3
 Game - Dragon Ball Z: The Legendary Super Warriors
 Game - The Legend of Zelda: Oracle of Ages, Breath of the Wild
@@ -80,7 +80,6 @@ Game - Theme Park World
 Game - Trackmania Sunrise
 Game - Worms World Party
 Game - XIII
-Game - World of Warcraft Classic
 Game - Portal
 Game - All core-series Half-Life games (not Half-Life)
 Game - Minecraft
@@ -93,7 +92,6 @@ Game - Blasphemous
 Game - Bloodbath Kavkaz
 Game - Borderlands GOTY, GOTY Enhanced, 2, The Pre-Sequel
 Game - Botanicula
-Game - Call of Duty Black Ops: Cold War
 Game - Cook, Serve, Delicious!
 Game - Counter-Strike, Condition Zero, Global Offensive, Counter-Strike Source
 Game - Crypt of the NecroDancer
@@ -104,7 +102,6 @@ Game - Earth 2150: Lost Souls
 Game - East India Company Gold
 Game - The Elder Scrolls V: Skyrim
 Game - Empires of the Undergrowth
-Game - Evoland
 Game - Fallout 3 GOTY
 Game - Grim Legends: The Forsaken Bride
 Game - Hades
@@ -119,10 +116,8 @@ Game - McPixel
 Game - Monster Hunter: World
 Game - Nightmares from the Deep 3: Davy Jones
 Game - Nioh: Complete Edition
-Game - No Man's Sky
 Game - Osteya
 Game - Planet Centauri
-Game - Portal Knights
 Game - Qubburo 2
 Game - RimWorld
 Game - Risk of Rain 2
@@ -153,6 +148,7 @@ Game - Bulb Boy
 Game - Splasher
 Game - Rocky Planet
 Game - Buy new refurbished game
+Game - Yugioh legacy of the duelist - all achievements
 Board - Plön spiel (german monopoly, based on a town)
 Shiny - Hunt a shiny Pokémon
 Series - LOST season 1-4
